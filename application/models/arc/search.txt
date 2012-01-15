@@ -1,0 +1,57 @@
+Query per rilevanza
+Questa query utilizza tutti i campi di ricerca in OR tra di loro
+e appone la colonna rilevanza in base al numero di match sui campi di ricerca.
+ 
+	SELECT count(item.id) AS relevance, item.id, item_lang.title
+	FROM item
+	LEFT JOIN item_lang ON (item_lang.item = item.id)
+	LEFT JOIN item_filter ON (item.id = item_filter.item)
+	LEFT JOIN filter ON (filter.id = item_filter.filter)
+	LEFT JOIN filter_lang ON (filter_lang.filter = filter.id AND filter_lang.lang = 'it')
+	
+	WHERE
+	(filter.name = 'color' AND item_filter.value = 'rosso')
+	OR
+	(filter.name = 'year' AND item_filter.value = '1993')
+	
+	GROUP BY (item.id)
+	
+	ORDER BY relevance DESC
+
+--------------------------------------------------------------------------------------------
+	Search con or, e rilevanza ai risultati con più riscontri. Non gestisce ancora i checkbox, ovvero campi multipli.
+	/**
+	 * Restituisce i risultati di ricerca
+	 * 
+	 * @param array filters
+	 * @return array results
+	 * 
+	 */
+	public function search($filters)
+	{
+		_d($filters);
+		
+		$this->db->select('count(item.id) AS relevance, item.id, item_lang.title');
+		$this->db->join('item_lang','item_lang.item = item.id','left');
+		$this->db->join('item_filter','item.id = item_filter.item','left');
+		$this->db->join('filter','filter.id = item_filter.filter','left');
+		$this->db->join('filter_lang',"filter_lang.filter = filter.id AND filter_lang.lang = '".LANG."'",'left');
+		
+		foreach($filters as $name => $filter)
+		{
+			if(!empty($filter))
+			{
+				$where = "(filter.name = '".$name."' AND item_filter.value = '".$filter."')";
+				$this->db->or_where($where);	
+			}
+		}
+
+		$this->db->group_by('item.id');
+		$this->db->order_by('relevance','desc');
+
+		$query = $this->db->get('item');
+		$result = $query->result_array();
+
+		_d($result);
+	}
+--------------------------------------------------------------------------------------------
