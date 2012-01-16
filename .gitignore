@@ -1,0 +1,5 @@
+application/config/database.php
+application/cache
+application/cache/filters-2-it
+application/cache/raw_filters-2-it
+application/cache/raw_options-0-it

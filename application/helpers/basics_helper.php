@@ -48,7 +48,9 @@ function _d($var)
  */
 function _js()
 {
-	// todo
+	$CI =& get_instance();
+	
+	echo $CI->template_library->js_compile();
 }
 
 /**
@@ -56,5 +58,7 @@ function _js()
  */
 function _css()
 {
-	// todo
+	$CI =& get_instance();
+	
+	echo $CI->template_library->css_compile();
 }

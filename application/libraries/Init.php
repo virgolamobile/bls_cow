@@ -11,5 +11,13 @@ class Init {
 		
 		// lingua
 		define('LANG','it');
+		
+		// Package: Less (da git)
+		$CI->load->add_package_path(APPPATH.'third_party/less/');
+		$CI->load->library('lesscode');
+		
+		// Package: CS-JS-Booster (da git)
+		$CI->load->add_package_path(APPPATH.'third_party/CSS-JS-Booster/');
+		$CI->load->library('booster');
 	}
 }

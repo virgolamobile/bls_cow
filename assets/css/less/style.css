@@ -1,0 +1,4 @@
+#header { color: #7f7f7f; }
+#header .navigation { font-size: 12px; }
+#header .logo { width: 300px; }
+#header .logo:hover { text-decoration: none; }
