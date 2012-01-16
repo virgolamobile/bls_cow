@@ -7519,3 +7519,53 @@ DEBUG - 2012-01-16 19:55:20 --> File loaded: application/views/developer_toolbar
 DEBUG - 2012-01-16 19:55:20 --> Language file loaded: language/english/profiler_lang.php
 DEBUG - 2012-01-16 19:55:20 --> Final output sent to browser
 DEBUG - 2012-01-16 19:55:20 --> Total execution time: 0.0889
+DEBUG - 2012-01-16 20:20:51 --> Config Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Hooks Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Utf8 Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> UTF-8 Support Enabled
+DEBUG - 2012-01-16 20:20:51 --> URI Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Router Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> No URI present. Default controller set.
+DEBUG - 2012-01-16 20:20:51 --> Output Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Security Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Input Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-16 20:20:51 --> Language Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Loader Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: basics_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: url_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: string_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: account_helper
+DEBUG - 2012-01-16 20:20:51 --> Database Driver Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Session Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Session routines successfully run
+DEBUG - 2012-01-16 20:20:51 --> Model Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Model Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Model Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Controller Class Initialized
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: file_helper
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/front/start/main.php
+DEBUG - 2012-01-16 20:20:51 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-16 20:20:51 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: date_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: html_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: number_helper
+DEBUG - 2012-01-16 20:20:51 --> Helper loaded: text_helper
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/auto_load.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/benchmarks.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/config.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/controller_info.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/database.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/hooks.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/loader.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/memory_usage.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/request_data.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/request_headers.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/uri_string.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/menu.php
+DEBUG - 2012-01-16 20:20:51 --> File loaded: application/views/developer_toolbar/slide.php
+DEBUG - 2012-01-16 20:20:51 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-16 20:20:51 --> Final output sent to browser
+DEBUG - 2012-01-16 20:20:51 --> Total execution time: 0.0885
