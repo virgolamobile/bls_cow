@@ -18,4 +18,5 @@ class Start extends CI_Controller {
 
 		_t('front/start/main');
 	}
+	
 }
