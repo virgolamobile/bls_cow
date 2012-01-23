@@ -1,6 +1,18 @@
 <?php
 
 /**
+ * Stampa il percorso di assets ed il file associato
+ * 
+ * @param string
+ */
+function _a($string)
+{
+	$CI =& get_instance();
+	
+	echo $CI->config->item('assets_url') . $string;
+}
+
+/**
  * Stampa dell'html passato come parametro
  * 
  * @param html

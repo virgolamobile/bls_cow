@@ -23,7 +23,7 @@ class Search extends CI_Controller {
 		$this->template_library->less_add('style',9);
 
 		// js
-		$this->template_library->js_add('jquery/jquery-1.7.1');
+		// $this->template_library->js_add('jquery/jquery-1.7.1');
 		$this->template_library->js_add('jquery/jquery-ui-1.8.17.custom.min');
 		
 		$html_filters = $this->search_library->compile_filters(2);
