@@ -7,7 +7,7 @@ class Start extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->output->enable_profiler(TRUE);
+		// $this->output->enable_profiler(TRUE);
 		
 		// css
 		$this->template_library->css_add('reset',0);

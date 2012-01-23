@@ -10,7 +10,7 @@
 | $config['debug_mode'] = TRUE;	 -	Enable Developer's Toolbar
 | $config['debug_mode'] = FALSE; -	Disable Developer's Toolbar
 */
-$config['debug_mode'] = TRUE;
+$config['debug_mode'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------

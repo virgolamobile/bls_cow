@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "start";
 $route['item/search/(:any)'] = "item/search";
+$route['cli/tools'] = "cli/tools";
 $route['404_override'] = '';
 
 

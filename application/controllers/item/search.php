@@ -15,7 +15,16 @@ class Search extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->output->enable_profiler(TRUE);
+		// $this->output->enable_profiler(TRUE);
+		
+		// css
+		$this->template_library->css_add('reset',0);
+		$this->template_library->css_add('ui-lightness/jquery-ui-1.8.17.custom',5);
+		$this->template_library->less_add('style',9);
+
+		// js
+		$this->template_library->js_add('jquery/jquery-1.7.1');
+		$this->template_library->js_add('jquery/jquery-ui-1.8.17.custom.min');
 		
 		$html_filters = $this->search_library->compile_filters(2);
 

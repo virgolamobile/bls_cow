@@ -87,6 +87,7 @@ class Booster {
 	*/
 	public $document_root = '';
 	
+	
 	/**
 	* Defines the a base offset if $_SERVER['DOCUMENT_ROOT'] is not equal to http://domain/ 
 	* but e.g. points to http://domain/~user/
@@ -107,7 +108,7 @@ class Booster {
 	* @var    string 
 	* @access public 
 	*/
-	public $booster_cachedir = '../../../cache/booster_cache';
+	public $booster_cachedir = 'booster_cache';
 	
 	/**
 	* Switch cache directory automatic cleanup on sundays on/off

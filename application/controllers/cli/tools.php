@@ -55,26 +55,30 @@ class Tools extends CI_Controller {
 	 * @param region_id è il nome della colonna region nella tabella di tipo locs
 	 * @param if_empty è l'etichetta da inserire automaticamente al posto del nome della regione 
 	 */
-	public function collapse_down_group($scope,$group_col,$country_col,$label='no-name')
+	public function collapse_down_loc_group($scope,$group_col,$country_col,$label='no-name')
 	{
 		echo "\n\n";
 
 		$query = $this->db->get($scope);
 		$all = $query->result_array();
 
+		// norm init
 		foreach($all as $key => $row)
 		{
-			$data['id'] = $row[$group_col];
-			$data['country'] = $row[$country_col];
-			$data['label'] = $label;
-			
-			// salvo la nuova region
-			$this->db->insert($scope . '_group',$data);
-			$geo_id = $this->db->insert_id();
-			
-			echo 'inserito group [' . $key . ':' . $geo_id . '] ' . "\n";
+			$id = $row[$group_col];
+			$_data[$id]['id'] = $row[$group_col];
+			$_data[$id]['country'] = $row[$country_col];
+			$_data[$id]['label'] = $label;
 		}
 		
+		// write on db
+		foreach($_data as $id => $data)
+		{
+			// salvo la nuova region
+			$this->db->insert($scope . '_group',$data);
+			
+			echo 'inserito group [' . $id . '] ' . "\n";
+		}
 		echo "\n\n";
 	}
 	
