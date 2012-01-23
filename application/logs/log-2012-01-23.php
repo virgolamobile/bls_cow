@@ -3005,3 +3005,39 @@ DEBUG - 2012-01-23 01:44:16 --> Helper loaded: number_helper
 DEBUG - 2012-01-23 01:44:16 --> Helper loaded: text_helper
 DEBUG - 2012-01-23 01:44:16 --> Final output sent to browser
 DEBUG - 2012-01-23 01:44:16 --> Total execution time: 1.8238
+DEBUG - 2012-01-23 01:48:41 --> Config Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Hooks Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Utf8 Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> UTF-8 Support Enabled
+DEBUG - 2012-01-23 01:48:42 --> URI Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Router Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Output Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Security Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Input Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-23 01:48:42 --> Language Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Loader Class Initialized
+DEBUG - 2012-01-23 01:48:42 --> Helper loaded: basics_helper
+DEBUG - 2012-01-23 01:48:42 --> Helper loaded: url_helper
+DEBUG - 2012-01-23 01:48:42 --> Helper loaded: string_helper
+DEBUG - 2012-01-23 01:48:42 --> Helper loaded: account_helper
+DEBUG - 2012-01-23 01:48:42 --> Database Driver Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Session Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> A session cookie was not found.
+DEBUG - 2012-01-23 01:48:43 --> Session routines successfully run
+DEBUG - 2012-01-23 01:48:43 --> Model Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Model Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Model Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Controller Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Database Forge Class Initialized
+DEBUG - 2012-01-23 01:48:43 --> Database Utility Class Initialized
+DEBUG - 2012-01-23 01:48:52 --> Helper loaded: file_helper
+ERROR - 2012-01-23 01:48:52 --> Severity: Warning  --> fopen(install/sql/1327279732.gz): failed to open stream: No such file or directory I:\www\bls_cow\system\helpers\file_helper.php 90
+DEBUG - 2012-01-23 01:48:52 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-23 01:48:52 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-23 01:48:52 --> Helper loaded: date_helper
+DEBUG - 2012-01-23 01:48:52 --> Helper loaded: html_helper
+DEBUG - 2012-01-23 01:48:52 --> Helper loaded: number_helper
+DEBUG - 2012-01-23 01:48:52 --> Helper loaded: text_helper
+DEBUG - 2012-01-23 01:48:52 --> Final output sent to browser
+DEBUG - 2012-01-23 01:48:52 --> Total execution time: 11.3925
