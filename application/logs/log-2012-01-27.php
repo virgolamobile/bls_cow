@@ -6737,3 +6737,3807 @@ DEBUG - 2012-01-27 19:33:03 --> UTF-8 Support Enabled
 DEBUG - 2012-01-27 19:33:03 --> URI Class Initialized
 DEBUG - 2012-01-27 19:33:03 --> Router Class Initialized
 ERROR - 2012-01-27 19:33:03 --> 404 Page Not Found --> item/search:
+DEBUG - 2012-01-27 00:00:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:00:18 --> URI Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Router Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Output Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Security Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:00:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:00:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:00:18 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:00:18 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:00:18 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Session Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Session routines successfully run
+DEBUG - 2012-01-27 00:00:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:00:18 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:00:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:00:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:00:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:00:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:00:19 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:00:19 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:00:19 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:00:19 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:00:19 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:00:19 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:00:19 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:00:19 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:00:19 --> Final output sent to browser
+DEBUG - 2012-01-27 00:00:20 --> Total execution time: 2.0290
+DEBUG - 2012-01-27 00:01:04 --> Config Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:01:04 --> URI Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Router Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Output Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Security Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Input Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:01:04 --> Language Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:01:04 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:01:04 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:01:04 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:01:04 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:01:04 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:01:05 --> Session Class Initialized
+DEBUG - 2012-01-27 00:01:06 --> Session routines successfully run
+DEBUG - 2012-01-27 00:01:06 --> Model Class Initialized
+DEBUG - 2012-01-27 00:01:06 --> Model Class Initialized
+DEBUG - 2012-01-27 00:01:06 --> Model Class Initialized
+DEBUG - 2012-01-27 00:01:06 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:01:06 --> DB Transaction Failure
+ERROR - 2012-01-27 00:01:06 --> Query error: Unknown column 'city' in 'where clause'
+DEBUG - 2012-01-27 00:01:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2012-01-27 00:02:53 --> Config Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:02:53 --> URI Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Router Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Output Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Security Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Input Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:02:53 --> Language Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:02:53 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:02:53 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:02:53 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:02:53 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Session Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Session routines successfully run
+DEBUG - 2012-01-27 00:02:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:02:53 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:02:54 --> Model Class Initialized
+DEBUG - 2012-01-27 00:02:54 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:02:54 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:02:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:02:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:02:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:02:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:02:55 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:02:55 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:02:55 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:02:55 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:02:55 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:02:55 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:02:55 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:02:55 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:02:56 --> Final output sent to browser
+DEBUG - 2012-01-27 00:02:56 --> Total execution time: 2.9067
+DEBUG - 2012-01-27 00:02:59 --> Config Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:02:59 --> URI Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Router Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Output Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Security Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Input Class Initialized
+DEBUG - 2012-01-27 00:02:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:02:59 --> Language Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:03:00 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Session Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Session routines successfully run
+DEBUG - 2012-01-27 00:03:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:03:00 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:03:00 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:03:00 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:03:00 --> Final output sent to browser
+DEBUG - 2012-01-27 00:03:00 --> Total execution time: 1.0599
+DEBUG - 2012-01-27 00:03:52 --> Config Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:03:52 --> URI Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Router Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Output Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Security Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Input Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:03:52 --> Language Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:03:52 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:03:53 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:03:53 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:03:53 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:03:53 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Session Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Session routines successfully run
+DEBUG - 2012-01-27 00:03:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:03:53 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:03:53 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:03:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:03:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:03:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:03:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:03:54 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:03:54 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:03:54 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:03:54 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:03:54 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:03:55 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:03:55 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:03:55 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:03:55 --> Final output sent to browser
+DEBUG - 2012-01-27 00:03:55 --> Total execution time: 3.0380
+DEBUG - 2012-01-27 00:04:07 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:07 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:07 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:07 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:07 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:07 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:08 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:08 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:08 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:08 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:08 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:08 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:08 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:08 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:08 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:08 --> Total execution time: 1.2169
+DEBUG - 2012-01-27 00:04:11 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:11 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:11 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:12 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:12 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:12 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:12 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:12 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:12 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:04:13 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:04:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:04:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:04:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:04:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:04:14 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:04:14 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:14 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:14 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:14 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:14 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:14 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:04:14 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:14 --> Total execution time: 3.0234
+DEBUG - 2012-01-27 00:04:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:17 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:17 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:17 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:18 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:18 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:18 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:18 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:18 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:19 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:19 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:19 --> Total execution time: 1.1091
+DEBUG - 2012-01-27 00:04:19 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:19 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:19 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:20 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:20 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:20 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:20 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:20 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:20 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:20 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:21 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:21 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:21 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:21 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:21 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:21 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:21 --> Total execution time: 1.4384
+DEBUG - 2012-01-27 00:04:24 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:24 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:24 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:24 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:24 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:24 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:24 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:24 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:04:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:04:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:04:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:04:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:04:25 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:04:25 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:25 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:25 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:25 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:25 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:25 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:04:25 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:26 --> Total execution time: 1.9706
+DEBUG - 2012-01-27 00:04:32 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:32 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:32 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:32 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:32 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:32 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:32 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:32 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:33 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:33 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:33 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:33 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:33 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:33 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:33 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:33 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:33 --> Total execution time: 0.9352
+DEBUG - 2012-01-27 00:04:36 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:36 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:36 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:36 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:37 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:37 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:37 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:37 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:37 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:37 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:37 --> Total execution time: 1.5413
+DEBUG - 2012-01-27 00:04:45 --> Config Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:04:45 --> URI Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Router Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Output Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Security Class Initialized
+DEBUG - 2012-01-27 00:04:45 --> Input Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:04:46 --> Language Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:04:46 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:04:46 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:04:46 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:04:46 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Session Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Session routines successfully run
+DEBUG - 2012-01-27 00:04:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:04:46 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:04:46 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:04:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:04:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:04:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:04:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:04:47 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:04:47 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:04:47 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:04:47 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:04:47 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:04:47 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:04:47 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:04:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:04:47 --> Final output sent to browser
+DEBUG - 2012-01-27 00:04:47 --> Total execution time: 2.0084
+DEBUG - 2012-01-27 00:06:28 --> Config Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:06:28 --> URI Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Router Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Output Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Security Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Input Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:06:28 --> Language Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:06:28 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:06:28 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:06:28 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:06:28 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Session Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Session routines successfully run
+DEBUG - 2012-01-27 00:06:28 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:28 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:06:29 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:06:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:06:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:06:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:06:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:06:30 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:06:30 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:06:30 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:06:30 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:06:30 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:06:30 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:06:30 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:06:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:06:30 --> Final output sent to browser
+DEBUG - 2012-01-27 00:06:30 --> Total execution time: 2.5240
+DEBUG - 2012-01-27 00:06:51 --> Config Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:06:51 --> URI Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Router Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Output Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Security Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Input Class Initialized
+DEBUG - 2012-01-27 00:06:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:06:51 --> Language Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:06:52 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:06:52 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:06:52 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:06:52 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Session Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Session routines successfully run
+DEBUG - 2012-01-27 00:06:52 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Model Class Initialized
+DEBUG - 2012-01-27 00:06:52 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:06:52 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:06:53 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:06:53 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:06:53 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:06:53 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:06:53 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:06:53 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:06:53 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:06:53 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:06:53 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:06:53 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:06:53 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:06:53 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:06:53 --> Final output sent to browser
+DEBUG - 2012-01-27 00:06:53 --> Total execution time: 1.7873
+DEBUG - 2012-01-27 00:07:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:07:17 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:07:17 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:07:17 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:07:17 --> URI Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Router Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Output Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Security Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:07:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:07:18 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Session Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Session routines successfully run
+DEBUG - 2012-01-27 00:07:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:07:18 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:07:18 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:07:18 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:07:18 --> Final output sent to browser
+DEBUG - 2012-01-27 00:07:18 --> Total execution time: 1.0034
+DEBUG - 2012-01-27 00:07:21 --> Config Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:07:21 --> URI Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Router Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Output Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Security Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Input Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:07:21 --> Language Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:07:21 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:07:21 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:07:21 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:07:21 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Session Class Initialized
+DEBUG - 2012-01-27 00:07:21 --> Session routines successfully run
+DEBUG - 2012-01-27 00:07:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:22 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:07:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:22 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:07:22 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:07:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:07:22 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:07:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:07:22 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:07:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:07:22 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:07:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:07:22 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:07:23 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:07:23 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:07:23 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:07:23 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:07:23 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:07:23 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:07:23 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:07:23 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:07:23 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:07:23 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:07:23 --> Final output sent to browser
+DEBUG - 2012-01-27 00:07:23 --> Total execution time: 2.0888
+DEBUG - 2012-01-27 00:07:58 --> Config Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:07:58 --> URI Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Router Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Output Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Security Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Input Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:07:58 --> Language Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:07:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:07:58 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:07:58 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:07:58 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:07:58 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Session Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Session routines successfully run
+DEBUG - 2012-01-27 00:07:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:07:59 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:07:59 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:07:59 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:07:59 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:07:59 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:07:59 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:07:59 --> Final output sent to browser
+DEBUG - 2012-01-27 00:07:59 --> Total execution time: 1.2083
+DEBUG - 2012-01-27 00:08:08 --> Config Class Initialized
+DEBUG - 2012-01-27 00:08:08 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:08:08 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:08:08 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:08:08 --> URI Class Initialized
+DEBUG - 2012-01-27 00:08:08 --> Router Class Initialized
+DEBUG - 2012-01-27 00:08:08 --> Output Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Security Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Input Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:08:09 --> Config Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Language Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:08:09 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:08:09 --> URI Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Router Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:08:09 --> Output Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Security Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:08:09 --> Input Class Initialized
+DEBUG - 2012-01-27 00:08:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:08:09 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:08:10 --> Language Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:08:10 --> Session Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:08:10 --> Session routines successfully run
+DEBUG - 2012-01-27 00:08:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:08:10 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:08:10 --> Session Class Initialized
+DEBUG - 2012-01-27 00:08:10 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:08:10 --> Session routines successfully run
+DEBUG - 2012-01-27 00:08:11 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:08:11 --> Final output sent to browser
+DEBUG - 2012-01-27 00:08:11 --> Total execution time: 2.2203
+DEBUG - 2012-01-27 00:08:11 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:11 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:11 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:11 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:08:11 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:08:11 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:08:11 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:08:11 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:08:11 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:08:11 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:08:11 --> Final output sent to browser
+DEBUG - 2012-01-27 00:08:11 --> Total execution time: 2.0567
+DEBUG - 2012-01-27 00:08:21 --> Config Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:08:21 --> URI Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Router Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Output Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Security Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Input Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:08:21 --> Language Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:08:21 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:08:21 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:08:21 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:08:21 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Session Class Initialized
+DEBUG - 2012-01-27 00:08:21 --> Session routines successfully run
+DEBUG - 2012-01-27 00:08:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:22 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:08:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:22 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:08:22 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:08:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:08:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:08:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:08:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:08:23 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:08:23 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:08:23 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:08:23 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:08:24 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:08:24 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:08:24 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:08:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:08:24 --> Final output sent to browser
+DEBUG - 2012-01-27 00:08:24 --> Total execution time: 3.1447
+DEBUG - 2012-01-27 00:08:33 --> Config Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:08:33 --> URI Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Router Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Output Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Security Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Input Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:08:33 --> Language Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:08:33 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:08:33 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:08:33 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:08:33 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:08:33 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Session Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Session routines successfully run
+DEBUG - 2012-01-27 00:08:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:34 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:08:34 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:08:34 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:34 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:08:34 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:34 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:08:35 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:35 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:08:35 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:35 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:08:35 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:08:35 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:08:35 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:08:35 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:08:35 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:08:35 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:08:35 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:08:35 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:08:35 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:08:35 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:08:35 --> Final output sent to browser
+DEBUG - 2012-01-27 00:08:35 --> Total execution time: 1.9579
+DEBUG - 2012-01-27 00:08:39 --> Config Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:08:39 --> URI Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Router Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Output Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Security Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Input Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:08:39 --> Language Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:08:39 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:08:39 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:08:39 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:08:39 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:08:39 --> Session Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Session routines successfully run
+DEBUG - 2012-01-27 00:08:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:08:40 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:08:40 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:08:40 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:40 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:08:40 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:40 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:08:40 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:40 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:08:41 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:08:41 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:08:41 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:08:41 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:08:41 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:08:41 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:08:41 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:08:41 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:08:41 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:08:41 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:08:41 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:08:41 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:08:41 --> Final output sent to browser
+DEBUG - 2012-01-27 00:08:41 --> Total execution time: 1.7468
+DEBUG - 2012-01-27 00:10:18 --> Config Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:10:19 --> URI Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Router Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Output Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Security Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Input Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:10:19 --> Language Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:10:19 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:10:19 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:10:19 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:10:19 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Session Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Session routines successfully run
+DEBUG - 2012-01-27 00:10:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:19 --> DB Transaction Failure
+ERROR - 2012-01-27 00:10:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') 
+GROUP BY `item`.`id`
+ORDER BY `relevance` desc' at line 11
+DEBUG - 2012-01-27 00:10:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2012-01-27 00:10:58 --> Config Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:10:58 --> URI Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Router Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Output Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Security Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Input Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:10:58 --> Language Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:10:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:10:59 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:10:59 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:10:59 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:10:59 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Session Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Session routines successfully run
+DEBUG - 2012-01-27 00:10:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:10:59 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:11:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:11:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:11:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:11:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:11:00 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:11:00 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:11:00 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:11:01 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:11:01 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:11:01 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:11:01 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:11:01 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:11:01 --> Final output sent to browser
+DEBUG - 2012-01-27 00:11:01 --> Total execution time: 2.9252
+DEBUG - 2012-01-27 00:11:12 --> Config Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:11:12 --> URI Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Router Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Output Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Security Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Input Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:11:12 --> Language Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:11:12 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:11:12 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:11:12 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:11:12 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Session Class Initialized
+DEBUG - 2012-01-27 00:11:12 --> Session routines successfully run
+DEBUG - 2012-01-27 00:11:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:13 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:13 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:13 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:11:13 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:13 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:11:13 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:11:13 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:13 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:11:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:11:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:11:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:11:14 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:11:14 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:11:14 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:11:14 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:11:14 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:11:14 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:11:14 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:11:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:11:14 --> Final output sent to browser
+DEBUG - 2012-01-27 00:11:14 --> Total execution time: 2.3037
+DEBUG - 2012-01-27 00:11:23 --> Config Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:11:23 --> URI Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Router Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Output Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Security Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Input Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:11:23 --> Language Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:11:23 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:11:23 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:11:23 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:11:23 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Session Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Session routines successfully run
+DEBUG - 2012-01-27 00:11:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:23 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:11:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:11:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:11:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:11:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:11:24 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:11:24 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:11:24 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:11:25 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:11:25 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:11:25 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:11:25 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:11:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:11:25 --> Final output sent to browser
+DEBUG - 2012-01-27 00:11:25 --> Total execution time: 2.1074
+DEBUG - 2012-01-27 00:11:28 --> Config Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:11:28 --> URI Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Router Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Output Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Security Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Input Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:11:28 --> Language Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:11:28 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:11:28 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:11:28 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:11:28 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:11:28 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Session Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Session routines successfully run
+DEBUG - 2012-01-27 00:11:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:11:29 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:11:29 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:11:29 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:29 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:11:29 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:29 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:11:29 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:30 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:11:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:11:30 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:11:30 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:11:30 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:11:30 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:11:30 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:11:30 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:11:30 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:11:30 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:11:30 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:11:30 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:11:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:11:30 --> Final output sent to browser
+DEBUG - 2012-01-27 00:11:30 --> Total execution time: 1.8562
+DEBUG - 2012-01-27 00:13:46 --> Config Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:13:47 --> URI Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Router Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Output Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Security Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Input Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:13:47 --> Language Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:13:47 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:13:47 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:13:47 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:13:47 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Session Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Session routines successfully run
+DEBUG - 2012-01-27 00:13:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:13:47 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:13:48 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:13:49 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:13:49 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:13:49 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:13:49 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:13:49 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:13:49 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:13:49 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:13:49 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:13:49 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:13:49 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:13:49 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:13:49 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:13:49 --> Final output sent to browser
+DEBUG - 2012-01-27 00:13:49 --> Total execution time: 3.1417
+DEBUG - 2012-01-27 00:14:12 --> Config Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:14:12 --> URI Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Router Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Output Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Security Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Input Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:14:12 --> Language Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:14:12 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:14:12 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:14:12 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:14:12 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Session Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Session routines successfully run
+DEBUG - 2012-01-27 00:14:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:12 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:14:13 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:14:13 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:14:13 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:14:13 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:14:13 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:14:13 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:14:13 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:14:13 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:14:13 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:14:13 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:14:13 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:14:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:14:13 --> Final output sent to browser
+DEBUG - 2012-01-27 00:14:13 --> Total execution time: 1.7499
+DEBUG - 2012-01-27 00:14:21 --> Config Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:14:21 --> URI Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Router Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Output Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Security Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Input Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:14:21 --> Language Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:14:21 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:14:21 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:14:21 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:14:21 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Session Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Session routines successfully run
+DEBUG - 2012-01-27 00:14:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:14:21 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:14:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:14:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:14:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:14:22 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:14:22 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:14:22 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:14:22 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:14:22 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:14:22 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:14:22 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:14:22 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:14:22 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:14:22 --> Final output sent to browser
+DEBUG - 2012-01-27 00:14:22 --> Total execution time: 1.7603
+DEBUG - 2012-01-27 00:16:14 --> Config Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:16:14 --> URI Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Router Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Output Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Security Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Input Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:16:14 --> Language Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:16:14 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Session Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Session routines successfully run
+DEBUG - 2012-01-27 00:16:14 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:16:14 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:16:14 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:16:14 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:16:15 --> Final output sent to browser
+DEBUG - 2012-01-27 00:16:15 --> Total execution time: 1.0387
+DEBUG - 2012-01-27 00:16:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:16:17 --> URI Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> Router Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> Output Class Initialized
+DEBUG - 2012-01-27 00:16:17 --> Security Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:16:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:16:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:16:18 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:16:18 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:16:18 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Session Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Session routines successfully run
+DEBUG - 2012-01-27 00:16:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:16:18 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:16:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:16:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:16:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:16:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:16:20 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:16:20 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:16:20 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:16:21 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:16:21 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:16:21 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:16:21 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:16:21 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:16:21 --> Final output sent to browser
+DEBUG - 2012-01-27 00:16:21 --> Total execution time: 3.6145
+DEBUG - 2012-01-27 00:18:30 --> Config Class Initialized
+DEBUG - 2012-01-27 00:18:30 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:18:31 --> URI Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Router Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Output Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Security Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Input Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:18:31 --> Language Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:18:31 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:18:31 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:18:31 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:18:31 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Session Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Session routines successfully run
+DEBUG - 2012-01-27 00:18:31 --> Model Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Model Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Model Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Model Class Initialized
+DEBUG - 2012-01-27 00:18:31 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:18:32 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:18:33 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:18:33 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:18:33 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:18:33 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:18:33 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:18:33 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:18:33 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:18:33 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:18:33 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:18:33 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:18:33 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:18:33 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:18:33 --> Final output sent to browser
+DEBUG - 2012-01-27 00:18:33 --> Total execution time: 3.0757
+DEBUG - 2012-01-27 00:19:37 --> Config Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:19:37 --> URI Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Router Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Output Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Security Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Input Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:19:37 --> Language Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:19:37 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:19:37 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:19:37 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:19:37 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:19:37 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Session Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Session routines successfully run
+DEBUG - 2012-01-27 00:19:38 --> Model Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Model Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Model Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Model Class Initialized
+DEBUG - 2012-01-27 00:19:38 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:19:39 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:19:39 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:19:39 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:19:39 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:19:39 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:19:39 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:19:39 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:19:39 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:19:39 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:19:39 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:19:39 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:19:40 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:19:40 --> Final output sent to browser
+DEBUG - 2012-01-27 00:19:40 --> Total execution time: 2.5251
+DEBUG - 2012-01-27 00:23:35 --> Config Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:23:35 --> URI Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Router Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Output Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Security Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Input Class Initialized
+DEBUG - 2012-01-27 00:23:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:23:36 --> Language Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:23:36 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Session Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Session routines successfully run
+DEBUG - 2012-01-27 00:23:36 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:23:36 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:23:36 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:23:36 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:23:36 --> Final output sent to browser
+DEBUG - 2012-01-27 00:23:36 --> Total execution time: 1.2576
+DEBUG - 2012-01-27 00:23:38 --> Config Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:23:39 --> URI Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Router Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Output Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Security Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Input Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:23:39 --> Language Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:23:39 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:23:39 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:23:39 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:23:39 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Session Class Initialized
+DEBUG - 2012-01-27 00:23:39 --> Session routines successfully run
+DEBUG - 2012-01-27 00:23:39 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:40 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:23:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:40 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:23:40 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:23:41 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:23:41 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:23:41 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:23:41 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:23:41 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:23:42 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:23:42 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:23:42 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:23:42 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:23:42 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:23:42 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:23:42 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:23:42 --> Final output sent to browser
+DEBUG - 2012-01-27 00:23:42 --> Total execution time: 3.3063
+DEBUG - 2012-01-27 00:23:49 --> Config Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:23:49 --> URI Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Router Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Output Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Security Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Input Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:23:49 --> Language Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:23:49 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:23:49 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:23:49 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:23:49 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:23:49 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Session Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Session routines successfully run
+DEBUG - 2012-01-27 00:23:50 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:23:50 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:23:50 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:23:50 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:23:50 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:23:50 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:23:50 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:23:50 --> Final output sent to browser
+DEBUG - 2012-01-27 00:23:50 --> Total execution time: 1.0496
+DEBUG - 2012-01-27 00:23:52 --> Config Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:23:52 --> URI Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Router Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Output Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Security Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Input Class Initialized
+DEBUG - 2012-01-27 00:23:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:23:52 --> Language Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:23:53 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:23:53 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:23:53 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:23:53 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Session Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Session routines successfully run
+DEBUG - 2012-01-27 00:23:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:23:53 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:23:53 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:23:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:23:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:23:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:23:54 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:23:54 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:23:54 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:23:54 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:23:54 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:23:54 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:23:54 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:23:54 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:23:54 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:23:54 --> Final output sent to browser
+DEBUG - 2012-01-27 00:23:54 --> Total execution time: 2.3456
+DEBUG - 2012-01-27 00:24:59 --> Config Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:24:59 --> URI Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Router Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Output Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Security Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Input Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:24:59 --> Language Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:24:59 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:24:59 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:24:59 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:24:59 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Session Class Initialized
+DEBUG - 2012-01-27 00:24:59 --> Session routines successfully run
+DEBUG - 2012-01-27 00:25:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:00 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:25:00 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:00 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:25:00 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:25:01 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:25:01 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:25:01 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:25:01 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:25:01 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:25:01 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:25:01 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:25:01 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:25:01 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:25:01 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:25:01 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:25:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:25:02 --> Final output sent to browser
+DEBUG - 2012-01-27 00:25:02 --> Total execution time: 2.8403
+DEBUG - 2012-01-27 00:25:57 --> Config Class Initialized
+DEBUG - 2012-01-27 00:25:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:25:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:25:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:25:58 --> URI Class Initialized
+DEBUG - 2012-01-27 00:25:58 --> Router Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Output Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Security Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Input Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:25:59 --> Language Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:25:59 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:25:59 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:25:59 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:25:59 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Session Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Session routines successfully run
+DEBUG - 2012-01-27 00:25:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:25:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Config Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:26:12 --> URI Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Router Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Output Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Security Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Input Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:26:12 --> Language Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:26:12 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:26:12 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:26:12 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:26:12 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Session Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Session routines successfully run
+DEBUG - 2012-01-27 00:26:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:12 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:26:13 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:26:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:26:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:26:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:26:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:26:14 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:26:14 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:26:14 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:26:14 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:26:14 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:26:14 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:26:14 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:26:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:26:14 --> Final output sent to browser
+DEBUG - 2012-01-27 00:26:14 --> Total execution time: 2.9040
+DEBUG - 2012-01-27 00:26:45 --> Config Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:26:45 --> URI Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Router Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Output Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Security Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Input Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:26:45 --> Language Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:26:45 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:26:45 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:26:45 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:26:45 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:26:45 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Session Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Session routines successfully run
+DEBUG - 2012-01-27 00:26:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Model Class Initialized
+DEBUG - 2012-01-27 00:26:47 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:26:47 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:26:48 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:26:48 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:26:48 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:26:48 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:26:48 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:26:48 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:26:48 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:26:48 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:26:48 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:26:48 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:26:48 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:26:48 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:26:48 --> Final output sent to browser
+DEBUG - 2012-01-27 00:26:48 --> Total execution time: 3.0117
+DEBUG - 2012-01-27 00:27:21 --> Config Class Initialized
+DEBUG - 2012-01-27 00:27:21 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:27:21 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:27:21 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:27:21 --> URI Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Router Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Output Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Security Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Input Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:27:22 --> Language Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:27:22 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:27:22 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:27:22 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:27:22 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Session Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Session routines successfully run
+DEBUG - 2012-01-27 00:27:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:22 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:27:23 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:27:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:23 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:27:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:27:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:27:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:27:24 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:27:24 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:27:24 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:27:24 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:27:24 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:27:24 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:27:24 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:27:24 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:27:24 --> Final output sent to browser
+DEBUG - 2012-01-27 00:27:24 --> Total execution time: 3.0306
+DEBUG - 2012-01-27 00:27:41 --> Config Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:27:41 --> URI Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Router Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Output Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Security Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Input Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:27:41 --> Language Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:27:41 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:27:41 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:27:41 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:27:41 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:27:41 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Session Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Session garbage collection performed.
+DEBUG - 2012-01-27 00:27:42 --> Session routines successfully run
+DEBUG - 2012-01-27 00:27:42 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:27:42 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:27:42 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:27:42 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:27:42 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:27:42 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:27:42 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:27:42 --> Final output sent to browser
+DEBUG - 2012-01-27 00:27:42 --> Total execution time: 1.5706
+DEBUG - 2012-01-27 00:27:45 --> Config Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:27:45 --> URI Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Router Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Output Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Security Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Input Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:27:45 --> Language Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:27:45 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:27:45 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:27:45 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:27:45 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:27:45 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Session Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Session routines successfully run
+DEBUG - 2012-01-27 00:27:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:46 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:27:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:27:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:27:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:27:47 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:27:47 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:27:47 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:27:47 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:27:47 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:27:47 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:27:47 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:27:47 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:27:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:27:47 --> Final output sent to browser
+DEBUG - 2012-01-27 00:27:47 --> Total execution time: 2.5046
+DEBUG - 2012-01-27 00:27:56 --> Config Class Initialized
+DEBUG - 2012-01-27 00:27:56 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:27:56 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:27:57 --> URI Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Router Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Output Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Security Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Input Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:27:57 --> Language Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:27:57 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:27:57 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:27:57 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:27:57 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Session Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Session routines successfully run
+DEBUG - 2012-01-27 00:27:57 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:57 --> Model Class Initialized
+DEBUG - 2012-01-27 00:27:58 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:27:58 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:27:58 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:27:58 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:27:58 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:27:58 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:27:58 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:27:58 --> Final output sent to browser
+DEBUG - 2012-01-27 00:27:58 --> Total execution time: 1.3467
+DEBUG - 2012-01-27 00:28:01 --> Config Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:28:01 --> URI Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Router Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Output Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Security Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Input Class Initialized
+DEBUG - 2012-01-27 00:28:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:28:01 --> Language Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:28:02 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:28:02 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:28:02 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:28:02 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Session Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Session routines successfully run
+DEBUG - 2012-01-27 00:28:02 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:02 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:28:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:28:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:28:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:28:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:28:03 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:28:04 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:28:04 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:28:04 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:28:04 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:28:04 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:28:04 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:28:04 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:28:04 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:28:04 --> Final output sent to browser
+DEBUG - 2012-01-27 00:28:04 --> Total execution time: 2.7177
+DEBUG - 2012-01-27 00:28:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:28:17 --> URI Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Router Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Output Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Security Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Input Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:28:17 --> Language Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:28:17 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:28:17 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:28:17 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:28:17 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Session Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Session routines successfully run
+DEBUG - 2012-01-27 00:28:17 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:28:17 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:28:17 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:28:17 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:28:18 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:28:18 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:28:18 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:28:18 --> Final output sent to browser
+DEBUG - 2012-01-27 00:28:18 --> Total execution time: 1.1004
+DEBUG - 2012-01-27 00:28:22 --> Config Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:28:22 --> URI Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Router Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Output Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Security Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Input Class Initialized
+DEBUG - 2012-01-27 00:28:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:28:23 --> Language Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:28:23 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:28:23 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:28:23 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:28:23 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Session Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Session routines successfully run
+DEBUG - 2012-01-27 00:28:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:23 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:28:24 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:28:24 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:28:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:28:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:28:25 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:28:25 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:28:25 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:28:25 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:28:25 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:28:25 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:28:25 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:28:25 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:28:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:28:25 --> Final output sent to browser
+DEBUG - 2012-01-27 00:28:25 --> Total execution time: 2.9187
+DEBUG - 2012-01-27 00:28:39 --> Config Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:28:39 --> URI Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> Router Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> Output Class Initialized
+DEBUG - 2012-01-27 00:28:39 --> Security Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Input Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:28:40 --> Language Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:28:40 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Session Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Session routines successfully run
+DEBUG - 2012-01-27 00:28:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:28:40 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:28:40 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:28:40 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:28:40 --> Final output sent to browser
+DEBUG - 2012-01-27 00:28:40 --> Total execution time: 1.0698
+DEBUG - 2012-01-27 00:28:42 --> Config Class Initialized
+DEBUG - 2012-01-27 00:28:42 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:28:42 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:28:42 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:28:42 --> URI Class Initialized
+DEBUG - 2012-01-27 00:28:42 --> Router Class Initialized
+DEBUG - 2012-01-27 00:28:42 --> Output Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Security Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Input Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:28:43 --> Language Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:28:43 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:28:43 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:28:43 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:28:43 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Session Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Session routines successfully run
+DEBUG - 2012-01-27 00:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 00:28:43 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:28:44 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:28:44 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:28:44 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:28:44 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:28:44 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:28:44 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:28:44 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:28:44 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:28:44 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:28:44 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:28:44 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:28:44 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:28:44 --> Final output sent to browser
+DEBUG - 2012-01-27 00:28:44 --> Total execution time: 2.5983
+DEBUG - 2012-01-27 00:29:07 --> Config Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:29:08 --> URI Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Router Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Output Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Security Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Input Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:29:08 --> Language Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:29:08 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:29:08 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:29:08 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:29:08 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Session Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Session routines successfully run
+DEBUG - 2012-01-27 00:29:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:29:08 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:10 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:29:10 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:29:10 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:10 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:29:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:29:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:29:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:29:11 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:29:11 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:29:11 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:29:11 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:29:11 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:29:11 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:29:11 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:29:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:29:11 --> Final output sent to browser
+DEBUG - 2012-01-27 00:29:11 --> Total execution time: 3.8009
+DEBUG - 2012-01-27 00:29:20 --> Config Class Initialized
+DEBUG - 2012-01-27 00:29:20 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:29:20 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:29:20 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:29:20 --> URI Class Initialized
+DEBUG - 2012-01-27 00:29:20 --> Router Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Output Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Security Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Input Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:29:21 --> Language Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:29:21 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Session Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Session routines successfully run
+DEBUG - 2012-01-27 00:29:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:29:21 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:29:21 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:29:21 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:29:21 --> Final output sent to browser
+DEBUG - 2012-01-27 00:29:21 --> Total execution time: 1.0870
+DEBUG - 2012-01-27 00:29:26 --> Config Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:29:26 --> URI Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> Router Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> Output Class Initialized
+DEBUG - 2012-01-27 00:29:26 --> Security Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Input Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:29:27 --> Language Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:29:27 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:29:27 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:29:27 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:29:27 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Session Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Session routines successfully run
+DEBUG - 2012-01-27 00:29:27 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:29:27 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:29 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:29:29 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:29:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:29:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:29:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:29:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:29:30 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:29:30 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:29:30 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:29:30 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:29:30 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:29:30 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:29:30 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:29:30 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:29:30 --> Final output sent to browser
+DEBUG - 2012-01-27 00:29:30 --> Total execution time: 4.3603
+DEBUG - 2012-01-27 00:29:50 --> Config Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:29:50 --> URI Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Router Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Output Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Security Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Input Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:29:50 --> Language Class Initialized
+DEBUG - 2012-01-27 00:29:50 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:29:51 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Session Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Session routines successfully run
+DEBUG - 2012-01-27 00:29:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:29:51 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:29:51 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:29:51 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:29:51 --> Final output sent to browser
+DEBUG - 2012-01-27 00:29:51 --> Total execution time: 0.9540
+DEBUG - 2012-01-27 00:29:53 --> Config Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:29:53 --> URI Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Router Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Output Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Security Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Input Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:29:53 --> Language Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:29:53 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:29:53 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:29:53 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:29:53 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Session Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Session routines successfully run
+DEBUG - 2012-01-27 00:29:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:53 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:54 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:54 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:29:54 --> Model Class Initialized
+DEBUG - 2012-01-27 00:29:55 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:29:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:29:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:29:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:29:55 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:29:55 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:29:56 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:29:56 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:29:56 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:29:56 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:29:56 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:29:56 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:29:56 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:29:56 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:29:56 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:29:56 --> Final output sent to browser
+DEBUG - 2012-01-27 00:29:56 --> Total execution time: 3.0804
+DEBUG - 2012-01-27 00:30:00 --> Config Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:30:00 --> URI Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Router Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Output Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Security Class Initialized
+DEBUG - 2012-01-27 00:30:00 --> Input Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:30:01 --> Language Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:30:01 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:30:01 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:30:01 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:30:01 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Session Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Session routines successfully run
+DEBUG - 2012-01-27 00:30:01 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:01 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:30:01 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:30:02 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:30:02 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:30:02 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:30:02 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:30:02 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:30:02 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:30:02 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:30:02 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:30:02 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:30:02 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:30:02 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:30:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:30:02 --> Final output sent to browser
+DEBUG - 2012-01-27 00:30:02 --> Total execution time: 2.1418
+DEBUG - 2012-01-27 00:30:09 --> Config Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:30:09 --> URI Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Router Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Output Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Security Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Input Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:30:09 --> Language Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:30:09 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:30:09 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:30:09 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:30:09 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:30:09 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Session Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Session routines successfully run
+DEBUG - 2012-01-27 00:30:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:10 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:30:10 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:30:10 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:10 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:30:10 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:30:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:30:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:30:11 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:30:11 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:30:11 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:30:11 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:30:11 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:30:11 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:30:11 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:30:11 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:30:11 --> Final output sent to browser
+DEBUG - 2012-01-27 00:30:11 --> Total execution time: 1.8593
+DEBUG - 2012-01-27 00:30:34 --> Config Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:30:34 --> URI Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Router Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Output Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Security Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Input Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:30:34 --> Language Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:30:34 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:30:34 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:30:34 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:30:34 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Session Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Session routines successfully run
+DEBUG - 2012-01-27 00:30:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:34 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:30:35 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:35 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:30:35 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:30:36 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:30:36 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:30:36 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:30:36 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:30:36 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:30:36 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:30:36 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:30:36 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:30:36 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:30:36 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:30:36 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:30:36 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:30:36 --> Final output sent to browser
+DEBUG - 2012-01-27 00:30:36 --> Total execution time: 2.4605
+DEBUG - 2012-01-27 00:30:50 --> Config Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:30:50 --> URI Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> Router Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> Output Class Initialized
+DEBUG - 2012-01-27 00:30:50 --> Security Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Input Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:30:51 --> Language Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:30:51 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:30:51 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:30:51 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:30:51 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Session Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Session routines successfully run
+DEBUG - 2012-01-27 00:30:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Model Class Initialized
+DEBUG - 2012-01-27 00:30:51 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:30:52 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:30:52 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:30:52 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:30:52 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:30:52 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:30:52 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:30:52 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:30:52 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:30:52 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:30:52 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:30:52 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:30:52 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:30:52 --> Final output sent to browser
+DEBUG - 2012-01-27 00:30:52 --> Total execution time: 1.9964
+DEBUG - 2012-01-27 00:31:04 --> Config Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:31:04 --> URI Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Router Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Output Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Security Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Input Class Initialized
+DEBUG - 2012-01-27 00:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:31:04 --> Language Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:31:05 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:31:05 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:31:05 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:31:05 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Session Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Session garbage collection performed.
+DEBUG - 2012-01-27 00:31:05 --> Session routines successfully run
+DEBUG - 2012-01-27 00:31:05 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:05 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:31:05 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:31:06 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:31:06 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:31:06 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:31:06 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:31:06 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:31:06 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:31:06 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:31:06 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:31:06 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:31:06 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:31:06 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:31:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:31:06 --> Final output sent to browser
+DEBUG - 2012-01-27 00:31:06 --> Total execution time: 1.7774
+DEBUG - 2012-01-27 00:31:14 --> Config Class Initialized
+DEBUG - 2012-01-27 00:31:14 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:31:14 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:31:14 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:31:14 --> URI Class Initialized
+DEBUG - 2012-01-27 00:31:14 --> Router Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Output Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Security Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Input Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:31:15 --> Language Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:31:15 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Session Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Session routines successfully run
+DEBUG - 2012-01-27 00:31:15 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:31:15 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:31:15 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:31:15 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:31:15 --> Final output sent to browser
+DEBUG - 2012-01-27 00:31:15 --> Total execution time: 1.0977
+DEBUG - 2012-01-27 00:31:17 --> Config Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:31:18 --> URI Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Router Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Output Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Security Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:31:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:31:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:31:18 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:31:18 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:31:18 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Session Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Session routines successfully run
+DEBUG - 2012-01-27 00:31:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:31:18 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:20 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:31:20 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:31:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:20 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:31:20 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:31:21 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:31:21 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:31:21 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:31:21 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:31:21 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:31:21 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:31:21 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:31:21 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:31:21 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:31:21 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:31:21 --> Final output sent to browser
+DEBUG - 2012-01-27 00:31:21 --> Total execution time: 3.6296
+DEBUG - 2012-01-27 00:31:29 --> Config Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:31:29 --> URI Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Router Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Output Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Security Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Input Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:31:29 --> Language Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:31:29 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:31:29 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:31:29 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:31:29 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:31:29 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Session Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Session routines successfully run
+DEBUG - 2012-01-27 00:31:30 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:31:30 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:31:30 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:31:30 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:31:30 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:31:30 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:31:30 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:31:30 --> Final output sent to browser
+DEBUG - 2012-01-27 00:31:30 --> Total execution time: 1.3719
+DEBUG - 2012-01-27 00:31:31 --> Config Class Initialized
+DEBUG - 2012-01-27 00:31:31 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:31:31 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:31:31 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:31:31 --> URI Class Initialized
+DEBUG - 2012-01-27 00:31:32 --> Router Class Initialized
+DEBUG - 2012-01-27 00:31:32 --> Output Class Initialized
+DEBUG - 2012-01-27 00:31:32 --> Security Class Initialized
+DEBUG - 2012-01-27 00:31:33 --> Input Class Initialized
+DEBUG - 2012-01-27 00:31:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:31:34 --> Language Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:31:35 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:31:35 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:31:35 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:31:35 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Session Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Session routines successfully run
+DEBUG - 2012-01-27 00:31:35 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:31:35 --> Model Class Initialized
+DEBUG - 2012-01-27 00:31:36 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:31:37 --> File loaded: application/views/front/filters/select.php
+DEBUG - 2012-01-27 00:31:38 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/filters/text.php
+DEBUG - 2012-01-27 00:31:38 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/filters/range.php
+DEBUG - 2012-01-27 00:31:38 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/filters/checkbox.php
+DEBUG - 2012-01-27 00:31:38 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/filters/autocomplete.php
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/standard/headinclude.php
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/standard/footinclude.php
+DEBUG - 2012-01-27 00:31:38 --> File loaded: application/views/front/item/test.php
+DEBUG - 2012-01-27 00:31:38 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:31:38 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:31:38 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:31:38 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:31:38 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:31:38 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:31:38 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 00:31:39 --> Final output sent to browser
+DEBUG - 2012-01-27 00:31:39 --> Total execution time: 7.1755
+DEBUG - 2012-01-27 00:50:58 --> Config Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:50:58 --> URI Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Router Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Output Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Security Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Input Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:50:58 --> Language Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:50:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:50:58 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:50:59 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:50:59 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:50:59 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:50:59 --> Session Class Initialized
+DEBUG - 2012-01-27 00:50:59 --> Session routines successfully run
+DEBUG - 2012-01-27 00:50:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:50:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:50:59 --> Model Class Initialized
+DEBUG - 2012-01-27 00:50:59 --> Controller Class Initialized
+ERROR - 2012-01-27 00:50:59 --> 404 Page Not Found --> filters/index
+DEBUG - 2012-01-27 00:51:18 --> Config Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:51:18 --> URI Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Router Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Output Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Security Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Input Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:51:18 --> Language Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:51:18 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:51:18 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:51:19 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Session Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Session routines successfully run
+DEBUG - 2012-01-27 00:51:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Model Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:51:19 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:51:19 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:51:19 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:51:19 --> Final output sent to browser
+DEBUG - 2012-01-27 00:51:19 --> Total execution time: 1.2356
+DEBUG - 2012-01-27 00:55:22 --> Config Class Initialized
+DEBUG - 2012-01-27 00:55:22 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:55:22 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:55:23 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:55:23 --> URI Class Initialized
+DEBUG - 2012-01-27 00:55:23 --> Router Class Initialized
+ERROR - 2012-01-27 00:55:23 --> 404 Page Not Found --> admin/filters
+DEBUG - 2012-01-27 00:55:26 --> Config Class Initialized
+DEBUG - 2012-01-27 00:55:26 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:55:26 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:55:26 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:55:26 --> URI Class Initialized
+DEBUG - 2012-01-27 00:55:26 --> Router Class Initialized
+ERROR - 2012-01-27 00:55:26 --> 404 Page Not Found --> admin/filters
+DEBUG - 2012-01-27 00:55:29 --> Config Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:55:29 --> URI Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Router Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Output Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Security Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Input Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:55:29 --> Language Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:55:29 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:55:29 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:55:29 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:55:29 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Session Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Session routines successfully run
+DEBUG - 2012-01-27 00:55:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Model Class Initialized
+DEBUG - 2012-01-27 00:55:29 --> Helper loaded: file_helper
+ERROR - 2012-01-27 00:55:30 --> Severity: Notice  --> Undefined property: Filter::$search_library I:\www\bls_cow\system\core\Model.php 51
+ERROR - 2012-01-27 00:55:31 --> Severity: Notice  --> Undefined property: Filter::$search_library I:\www\bls_cow\system\core\Model.php 51
+ERROR - 2012-01-27 00:55:31 --> Severity: Notice  --> Undefined property: Filter::$search_library I:\www\bls_cow\system\core\Model.php 51
+ERROR - 2012-01-27 00:55:31 --> Severity: Notice  --> Undefined property: Filter::$search_library I:\www\bls_cow\system\core\Model.php 51
+ERROR - 2012-01-27 00:55:31 --> Severity: Notice  --> Undefined property: Filter::$search_library I:\www\bls_cow\system\core\Model.php 51
+DEBUG - 2012-01-27 00:55:31 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:55:31 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:55:31 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:55:31 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:55:31 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:55:31 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:55:31 --> Final output sent to browser
+DEBUG - 2012-01-27 00:55:31 --> Total execution time: 2.1677
+DEBUG - 2012-01-27 00:58:23 --> Config Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:58:23 --> URI Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Router Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Output Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Security Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Input Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:58:23 --> Language Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:58:23 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:58:23 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:58:23 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:58:23 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:58:23 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:58:24 --> Session Class Initialized
+DEBUG - 2012-01-27 00:58:24 --> Session routines successfully run
+DEBUG - 2012-01-27 00:58:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:58:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:58:24 --> Model Class Initialized
+DEBUG - 2012-01-27 00:58:24 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:58:25 --> Model Class Initialized
+DEBUG - 2012-01-27 00:58:25 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:58:26 --> Search_library class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:58:26 --> Search_library class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:58:27 --> Search_library class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:58:27 --> Search_library class already loaded. Second attempt ignored.
+DEBUG - 2012-01-27 00:58:27 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:58:27 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:58:27 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:58:27 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:58:27 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:58:27 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:58:27 --> Final output sent to browser
+DEBUG - 2012-01-27 00:58:27 --> Total execution time: 4.0765
+DEBUG - 2012-01-27 00:59:39 --> Config Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Hooks Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 00:59:40 --> URI Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Router Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Output Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Security Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Input Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 00:59:40 --> Language Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Loader Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 00:59:40 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 00:59:40 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 00:59:40 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 00:59:40 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Session Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Session routines successfully run
+DEBUG - 2012-01-27 00:59:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Controller Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Model Class Initialized
+DEBUG - 2012-01-27 00:59:40 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 00:59:41 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 00:59:41 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 00:59:41 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 00:59:41 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 00:59:41 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 00:59:41 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 00:59:42 --> Final output sent to browser
+DEBUG - 2012-01-27 00:59:42 --> Total execution time: 2.6372
+DEBUG - 2012-01-27 01:01:00 --> Config Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:01:00 --> URI Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Router Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Output Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Security Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Input Class Initialized
+DEBUG - 2012-01-27 01:01:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:01:01 --> Language Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:01:01 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:01:01 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:01:01 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:01:01 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Session Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Session routines successfully run
+DEBUG - 2012-01-27 01:01:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:01 --> Helper loaded: file_helper
+ERROR - 2012-01-27 01:01:02 --> Severity: Notice  --> Undefined variable: filters I:\www\bls_cow\application\models\filter_model.php 163
+DEBUG - 2012-01-27 01:01:03 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:01:03 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:01:03 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:01:03 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:01:03 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:01:03 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:01:04 --> Final output sent to browser
+DEBUG - 2012-01-27 01:01:04 --> Total execution time: 3.5503
+DEBUG - 2012-01-27 01:01:09 --> Config Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:01:09 --> URI Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Router Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Output Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Security Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Input Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:01:09 --> Language Class Initialized
+DEBUG - 2012-01-27 01:01:09 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:01:10 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:01:10 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:01:10 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:01:10 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Session Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Session routines successfully run
+DEBUG - 2012-01-27 01:01:10 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Model Class Initialized
+DEBUG - 2012-01-27 01:01:10 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:01:11 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:01:11 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:01:11 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:01:11 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:01:11 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:01:11 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:01:11 --> Final output sent to browser
+DEBUG - 2012-01-27 01:01:11 --> Total execution time: 2.2541
+DEBUG - 2012-01-27 01:06:37 --> Config Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:06:38 --> URI Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Router Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Output Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Security Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Input Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:06:38 --> Language Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:06:38 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:06:38 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:06:38 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:06:38 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Session Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Session routines successfully run
+DEBUG - 2012-01-27 01:06:38 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:38 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:06:55 --> Config Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:06:56 --> URI Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Router Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Output Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Security Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Input Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:06:56 --> Language Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:06:56 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Session Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Session routines successfully run
+DEBUG - 2012-01-27 01:06:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:06:56 --> Model Class Initialized
+ERROR - 2012-01-27 01:06:56 --> Severity: Warning  --> Missing argument 1 for Filter_library::get_filters(), called in I:\www\bls_cow\application\controllers\admin\filter.php on line 16 and defined I:\www\bls_cow\application\libraries\Filter_library.php 36
+DEBUG - 2012-01-27 01:06:56 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:06:56 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:06:56 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:06:56 --> Final output sent to browser
+DEBUG - 2012-01-27 01:06:57 --> Total execution time: 1.0111
+DEBUG - 2012-01-27 01:06:58 --> Config Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:06:58 --> URI Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Router Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Output Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Security Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Input Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:06:58 --> Language Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:06:58 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:06:58 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:06:58 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:06:58 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:06:58 --> Session Class Initialized
+DEBUG - 2012-01-27 01:06:59 --> Session garbage collection performed.
+DEBUG - 2012-01-27 01:06:59 --> Session routines successfully run
+DEBUG - 2012-01-27 01:06:59 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:59 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:59 --> Model Class Initialized
+DEBUG - 2012-01-27 01:06:59 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:06:59 --> Model Class Initialized
+ERROR - 2012-01-27 01:06:59 --> Severity: Warning  --> Missing argument 1 for Filter_library::get_filters(), called in I:\www\bls_cow\application\controllers\admin\filter.php on line 16 and defined I:\www\bls_cow\application\libraries\Filter_library.php 36
+DEBUG - 2012-01-27 01:06:59 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:07:00 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:07:00 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:07:00 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:07:00 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:07:00 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:07:00 --> Final output sent to browser
+DEBUG - 2012-01-27 01:07:00 --> Total execution time: 2.0172
+DEBUG - 2012-01-27 01:07:45 --> Config Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:07:45 --> URI Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Router Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Output Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Security Class Initialized
+DEBUG - 2012-01-27 01:07:45 --> Input Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:07:46 --> Language Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:07:46 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:07:46 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:07:46 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:07:46 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Session Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Session routines successfully run
+DEBUG - 2012-01-27 01:07:46 --> Model Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Model Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Model Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Model Class Initialized
+DEBUG - 2012-01-27 01:07:46 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:07:47 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:07:48 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:07:48 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:07:48 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:07:48 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:07:48 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:07:48 --> Final output sent to browser
+DEBUG - 2012-01-27 01:07:48 --> Total execution time: 2.3358
+DEBUG - 2012-01-27 01:08:55 --> Config Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:08:55 --> URI Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Router Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Output Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Security Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Input Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:08:55 --> Language Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:08:55 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:08:55 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:08:55 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:08:55 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:08:56 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Session Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Session routines successfully run
+DEBUG - 2012-01-27 01:08:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Model Class Initialized
+DEBUG - 2012-01-27 01:08:56 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:08:57 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:08:58 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:08:58 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:08:58 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:08:58 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:08:58 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:08:58 --> Final output sent to browser
+DEBUG - 2012-01-27 01:08:58 --> Total execution time: 3.6433
+DEBUG - 2012-01-27 01:10:19 --> Config Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:10:19 --> URI Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Router Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Output Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Security Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Input Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:10:19 --> Language Class Initialized
+DEBUG - 2012-01-27 01:10:19 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:10:20 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:10:20 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:10:20 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:10:20 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Session Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Session routines successfully run
+DEBUG - 2012-01-27 01:10:20 --> Model Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Model Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Model Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Model Class Initialized
+DEBUG - 2012-01-27 01:10:20 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:10:21 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:10:22 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:10:22 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:10:22 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:10:22 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:10:22 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:10:22 --> Final output sent to browser
+DEBUG - 2012-01-27 01:10:22 --> Total execution time: 3.1018
+DEBUG - 2012-01-27 01:13:10 --> Config Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:13:11 --> URI Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Router Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Output Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Security Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Input Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:13:11 --> Language Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:13:11 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:13:11 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:13:11 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:13:11 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Session Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Session routines successfully run
+DEBUG - 2012-01-27 01:13:11 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:11 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:13:13 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:13:14 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:13:14 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:13:14 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:13:14 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:13:14 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:13:14 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:13:14 --> Final output sent to browser
+DEBUG - 2012-01-27 01:13:14 --> Total execution time: 3.7509
+DEBUG - 2012-01-27 01:13:23 --> Config Class Initialized
+DEBUG - 2012-01-27 01:13:23 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:13:23 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:13:23 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:13:23 --> URI Class Initialized
+DEBUG - 2012-01-27 01:13:23 --> Router Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Output Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Security Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Input Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:13:24 --> Language Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:13:24 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:13:24 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:13:24 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:13:24 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Session Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Session routines successfully run
+DEBUG - 2012-01-27 01:13:24 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Model Class Initialized
+DEBUG - 2012-01-27 01:13:24 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:13:24 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:13:25 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:13:25 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:13:25 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:13:25 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:13:25 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:13:25 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:13:25 --> Final output sent to browser
+DEBUG - 2012-01-27 01:13:25 --> Total execution time: 1.2792
+DEBUG - 2012-01-27 01:15:42 --> Config Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:15:42 --> URI Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Router Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Output Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Security Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Input Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:15:42 --> Language Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:15:42 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:15:42 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:15:42 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:15:43 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:15:43 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Session Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Session routines successfully run
+DEBUG - 2012-01-27 01:15:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:15:43 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:15:44 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:15:45 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:15:45 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:15:45 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:15:45 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:15:45 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:15:45 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:15:45 --> Final output sent to browser
+DEBUG - 2012-01-27 01:15:45 --> Total execution time: 2.8469
+DEBUG - 2012-01-27 01:28:43 --> Config Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:28:43 --> URI Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Router Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Output Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Security Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Input Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:28:43 --> Language Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:28:43 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:28:43 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:28:43 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:28:43 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Session Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Session routines successfully run
+DEBUG - 2012-01-27 01:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:28:43 --> Model Class Initialized
+DEBUG - 2012-01-27 01:28:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:28:44 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:28:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:28:44 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:28:45 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:28:46 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:28:46 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:28:46 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:28:46 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:28:46 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:28:46 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:28:46 --> Final output sent to browser
+DEBUG - 2012-01-27 01:28:46 --> Total execution time: 3.7326
+DEBUG - 2012-01-27 01:29:42 --> Config Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:29:42 --> URI Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Router Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Output Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Security Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Input Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:29:42 --> Language Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:29:42 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:29:42 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:29:42 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:29:42 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Session Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Session routines successfully run
+DEBUG - 2012-01-27 01:29:42 --> Model Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Model Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Model Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Model Class Initialized
+DEBUG - 2012-01-27 01:29:42 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:29:43 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:29:43 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:29:43 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:29:43 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:29:43 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:29:43 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:29:43 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:29:43 --> Final output sent to browser
+DEBUG - 2012-01-27 01:29:43 --> Total execution time: 1.5715
+DEBUG - 2012-01-27 01:34:27 --> Config Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:34:27 --> URI Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Router Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Output Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Security Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Input Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:34:27 --> Language Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:34:27 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:34:27 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:34:27 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:34:27 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Session Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Session routines successfully run
+DEBUG - 2012-01-27 01:34:27 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:27 --> Helper loaded: file_helper
+ERROR - 2012-01-27 01:34:29 --> Severity: Notice  --> Undefined offset: 1 I:\www\bls_cow\application\controllers\admin\filter.php 27
+ERROR - 2012-01-27 01:34:30 --> Severity: Notice  --> Undefined property: Filter::$parser I:\www\bls_cow\application\controllers\admin\filter.php 29
+DEBUG - 2012-01-27 01:34:48 --> Config Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:34:48 --> URI Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Router Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Output Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Security Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Input Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:34:48 --> Language Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:34:48 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:34:48 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:34:48 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:34:48 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:34:49 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Session Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Session routines successfully run
+DEBUG - 2012-01-27 01:34:49 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Model Class Initialized
+DEBUG - 2012-01-27 01:34:49 --> Helper loaded: file_helper
+ERROR - 2012-01-27 01:34:49 --> Severity: Notice  --> Undefined offset: 1 I:\www\bls_cow\application\controllers\admin\filter.php 28
+DEBUG - 2012-01-27 01:35:14 --> Config Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:35:15 --> URI Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Router Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Output Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Security Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Input Class Initialized
+DEBUG - 2012-01-27 01:35:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:35:16 --> Language Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:35:16 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:35:16 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:35:16 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:35:16 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Session Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Session routines successfully run
+DEBUG - 2012-01-27 01:35:16 --> Model Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Model Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Model Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Model Class Initialized
+DEBUG - 2012-01-27 01:35:16 --> Helper loaded: file_helper
+ERROR - 2012-01-27 01:35:17 --> Severity: Notice  --> Undefined offset: 1 I:\www\bls_cow\application\controllers\admin\filter.php 28
+DEBUG - 2012-01-27 01:35:17 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:35:17 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:35:17 --> File loaded: application/views/admin/filters/manage.php
+ERROR - 2012-01-27 01:35:17 --> Severity: Notice  --> Undefined offset: 4 I:\www\bls_cow\application\controllers\admin\filter.php 28
+DEBUG - 2012-01-27 01:35:17 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:35:17 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:35:17 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:35:18 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:35:18 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:35:18 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:35:18 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:35:18 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:35:18 --> Final output sent to browser
+DEBUG - 2012-01-27 01:35:18 --> Total execution time: 5.2688
+DEBUG - 2012-01-27 01:36:44 --> Config Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:36:45 --> URI Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Router Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Output Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Security Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Input Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:36:45 --> Language Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:36:45 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:36:45 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:36:45 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:36:45 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Session Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Session routines successfully run
+DEBUG - 2012-01-27 01:36:45 --> Model Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Model Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Model Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Model Class Initialized
+DEBUG - 2012-01-27 01:36:45 --> Helper loaded: file_helper
+ERROR - 2012-01-27 01:36:46 --> Severity: Notice  --> Undefined offset: 1 I:\www\bls_cow\application\controllers\admin\filter.php 28
+DEBUG - 2012-01-27 01:36:47 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:36:47 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:36:47 --> File loaded: application/views/admin/filters/manage.php
+ERROR - 2012-01-27 01:36:47 --> Severity: Notice  --> Undefined offset: 4 I:\www\bls_cow\application\controllers\admin\filter.php 28
+DEBUG - 2012-01-27 01:36:47 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:36:47 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:36:47 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:36:47 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:36:47 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:36:47 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:36:47 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:36:47 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:36:47 --> Final output sent to browser
+DEBUG - 2012-01-27 01:36:47 --> Total execution time: 3.3090
+DEBUG - 2012-01-27 01:37:54 --> Config Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:37:54 --> URI Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Router Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Output Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Security Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Input Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:37:54 --> Language Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:37:54 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:37:54 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:37:54 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:37:54 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Session Class Initialized
+DEBUG - 2012-01-27 01:37:54 --> Session routines successfully run
+DEBUG - 2012-01-27 01:37:55 --> Model Class Initialized
+DEBUG - 2012-01-27 01:37:55 --> Model Class Initialized
+DEBUG - 2012-01-27 01:37:55 --> Model Class Initialized
+DEBUG - 2012-01-27 01:37:55 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:37:55 --> Model Class Initialized
+DEBUG - 2012-01-27 01:37:55 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:37:56 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:37:57 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:37:57 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:37:57 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:37:57 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:37:57 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:37:57 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:37:57 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:37:57 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:37:57 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:37:57 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:37:57 --> Final output sent to browser
+DEBUG - 2012-01-27 01:37:57 --> Total execution time: 2.8941
+DEBUG - 2012-01-27 01:38:00 --> Config Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:38:01 --> URI Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Router Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Output Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Security Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Input Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:38:01 --> Language Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:38:01 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:38:01 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:38:01 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:38:01 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Session Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Session routines successfully run
+DEBUG - 2012-01-27 01:38:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Model Class Initialized
+DEBUG - 2012-01-27 01:38:01 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:38:02 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:38:02 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:38:02 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:38:02 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:38:02 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:38:02 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:38:02 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:38:02 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:38:02 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:38:02 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:38:02 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:38:02 --> Final output sent to browser
+DEBUG - 2012-01-27 01:38:02 --> Total execution time: 1.6543
+DEBUG - 2012-01-27 01:39:16 --> Config Class Initialized
+DEBUG - 2012-01-27 01:39:16 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:39:16 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:39:16 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:39:16 --> URI Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Router Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Output Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Security Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Input Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:39:17 --> Language Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:39:17 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:39:17 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:39:17 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:39:17 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Session Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Session routines successfully run
+DEBUG - 2012-01-27 01:39:17 --> Model Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Model Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Model Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Model Class Initialized
+DEBUG - 2012-01-27 01:39:17 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:39:18 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:39:19 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:39:19 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:39:19 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:39:19 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:39:19 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:39:19 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:39:19 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:39:19 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:39:19 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:39:19 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:39:19 --> Final output sent to browser
+DEBUG - 2012-01-27 01:39:19 --> Total execution time: 2.9281
+DEBUG - 2012-01-27 01:44:44 --> Config Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:44:44 --> URI Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Router Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Output Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Security Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Input Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:44:44 --> Language Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:44:44 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:44:44 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:44:44 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:44:44 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Session Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Session routines successfully run
+DEBUG - 2012-01-27 01:44:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:44:44 --> Model Class Initialized
+DEBUG - 2012-01-27 01:44:45 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:44:47 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:45:11 --> Config Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:45:12 --> URI Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Router Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Output Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Security Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Input Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:45:12 --> Language Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:45:12 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:45:12 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:45:12 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:45:12 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Session Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Session routines successfully run
+DEBUG - 2012-01-27 01:45:12 --> Model Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Model Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Model Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Model Class Initialized
+DEBUG - 2012-01-27 01:45:12 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:45:12 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:45:13 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:45:13 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:45:13 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:45:13 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:45:13 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:45:13 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:45:13 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:45:13 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:45:13 --> Final output sent to browser
+DEBUG - 2012-01-27 01:45:13 --> Total execution time: 1.7260
+DEBUG - 2012-01-27 01:46:03 --> Config Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:46:03 --> URI Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Router Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Output Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Security Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Input Class Initialized
+DEBUG - 2012-01-27 01:46:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:46:03 --> Language Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:46:04 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:46:04 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:46:04 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:46:04 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Session Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Session routines successfully run
+DEBUG - 2012-01-27 01:46:04 --> Model Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Model Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Model Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Model Class Initialized
+DEBUG - 2012-01-27 01:46:04 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:46:05 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:46:06 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:46:06 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:46:06 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:46:06 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:46:06 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:46:06 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:46:06 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:46:06 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:46:06 --> Final output sent to browser
+DEBUG - 2012-01-27 01:46:06 --> Total execution time: 2.9886
+DEBUG - 2012-01-27 01:49:34 --> Config Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:49:34 --> URI Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Router Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Output Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Security Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Input Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:49:34 --> Language Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:49:34 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:49:34 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:49:34 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:49:34 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Session Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Session routines successfully run
+DEBUG - 2012-01-27 01:49:34 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:49:34 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:35 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:49:36 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:49:36 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:36 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:36 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:36 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:37 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:37 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:49:37 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:49:37 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:49:37 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:49:37 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:49:37 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:49:37 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:49:37 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:49:37 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:49:37 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:49:37 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:49:37 --> Final output sent to browser
+DEBUG - 2012-01-27 01:49:37 --> Total execution time: 3.1204
+DEBUG - 2012-01-27 01:49:57 --> Config Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:49:58 --> URI Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Router Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Output Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Security Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Input Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:49:58 --> Language Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:49:58 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:49:58 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:49:58 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:49:58 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Session Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Session routines successfully run
+DEBUG - 2012-01-27 01:49:58 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Model Class Initialized
+DEBUG - 2012-01-27 01:49:58 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:49:59 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:49:59 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:00 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:00 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:50:00 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:50:00 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:50:00 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:50:00 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:50:00 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:50:00 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:50:00 --> Final output sent to browser
+DEBUG - 2012-01-27 01:50:00 --> Total execution time: 2.7053
+DEBUG - 2012-01-27 01:50:03 --> Config Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:50:03 --> URI Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Router Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Output Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Security Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Input Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:50:03 --> Language Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:50:03 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:50:03 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:50:03 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:50:03 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Session Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Session routines successfully run
+DEBUG - 2012-01-27 01:50:03 --> Model Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Model Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Model Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Model Class Initialized
+DEBUG - 2012-01-27 01:50:03 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:50:03 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:04 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:50:05 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:50:05 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:50:05 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:50:05 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:50:05 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:50:05 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:50:05 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:50:05 --> Final output sent to browser
+DEBUG - 2012-01-27 01:50:05 --> Total execution time: 2.1173
+DEBUG - 2012-01-27 01:55:50 --> Config Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Hooks Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 01:55:51 --> URI Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Router Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Output Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Security Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Input Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 01:55:51 --> Language Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Loader Class Initialized
+DEBUG - 2012-01-27 01:55:51 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 01:55:52 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 01:55:52 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 01:55:52 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 01:55:52 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Session Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Session routines successfully run
+DEBUG - 2012-01-27 01:55:52 --> Model Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Model Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Model Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Controller Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Model Class Initialized
+DEBUG - 2012-01-27 01:55:52 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 01:55:55 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:55:56 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 01:55:56 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 01:55:56 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 01:55:56 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 01:55:56 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 01:55:56 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 01:55:56 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 01:55:56 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 01:55:56 --> Final output sent to browser
+DEBUG - 2012-01-27 01:55:56 --> Total execution time: 5.5253

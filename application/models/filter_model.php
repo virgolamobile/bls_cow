@@ -10,6 +10,27 @@ class Filter_model extends CI_Model {
     }
 	
 	/**
+	 * Ottengo i types
+	 *
+	 * @return array
+	 */
+	public function get_types()
+	{
+		$query = $this->db->get('filter_type');
+		$result = $query->result_array();
+		
+		foreach($result as $row)
+		{
+			$id = $row['id'];
+			$name = $row['name'];
+		
+			$types[$id] = $name;
+		}
+		
+		return $types;
+	}
+	
+	/**
 	 * Ottengo la struttura di tutti i filtri di un type, oppure per uno, organizzati per type
 	 * 
 	 * @param string type. 0 default ovvero tutti.
@@ -60,7 +81,10 @@ class Filter_model extends CI_Model {
 		// ottengo tutti i filtri (di un type o tutti) con cache
 		if ( ! $raw_filters = $this->cache->get('raw_filters-'.$this->type.'-'.LANG))
 		{
+			$this->db->select('filter.*,filter_type.name as filter_type');
+		
 			if(0 < $this->type) $this->db->where_in('type',array(0,$this->type)); // se ho il type cerco solo i filtri che afferiscono a quel type o a 0 (filtri universali: ad esempio il prezzo).
+			$this->db->join('filter_type','filter_type.id = filter.type');
 			$this->db->join('filter_lang',"filter.id = filter_lang.filter AND filter_lang.lang = '".LANG."'",'left');
 			$query = $this->db->get('filter');
 			$raw_filters = $query->result_array();
@@ -168,7 +192,8 @@ class Filter_model extends CI_Model {
 	 */
 	private function get_active_filter($name)
 	{
-		if(isset($this->search_library->filters[$name]))
+		
+		if(isset($this->search_library) && isset($this->search_library->filters[$name]))
 			return $this->search_library->filters[$name];
 		else
 			return FALSE;
