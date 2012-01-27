@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://127.0.0.1/bls_cow/';
+$config['base_url']	= 'http://192.168.255.9/shite/www/01/';
 $config['assets_url']	= $config['base_url'] . 'assets/';
 
 /*

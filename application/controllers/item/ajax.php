@@ -15,12 +15,13 @@ class Ajax extends CI_Controller {
 		$query = $this->db->get($scope);
 		$result = $query->result_array();
 		
+		$data = array();
 		foreach($result as $row)
 		{
 			$data[] = array(
 				'id'	=> $row['id'],
 				'label'	=> $row['label'],
-				'value'	=> $row['city']
+				'value'	=> $row['label']
 			);
 		}
 		

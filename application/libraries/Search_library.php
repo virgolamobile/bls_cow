@@ -6,7 +6,7 @@ class Search_library {
 		'item' => 0,			// id dell'elemento
 		'type' => false		// categoria in cui cercare l'elemento
 	);
-	
+
 	function __construct()
 	{
 		$CI =& get_instance();
@@ -23,11 +23,11 @@ class Search_library {
 		// in presenza di post (item=1)
 		// ../item/search/item/3/?item=2
 		// restituisce item=1
-		
+
 		$this->set_filter($CI->input->get());
 		$this->set_filter($CI->uri->uri_to_assoc(3));	// è stata settata una rotta item/search in routes.php
 		$this->set_filter($CI->input->post());
-		
+
 		// lancia la ricerca
 		$this->run();
 	}

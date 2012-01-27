@@ -28,6 +28,35 @@ class Item_model extends CI_Model {
 		
 		foreach($filters as $name => $filter)
 		{
+			// caso range (min max)
+			if('range' == $name)
+			{
+				// il filtro range è fatto da array nome-filtro => range min-max filtro. Per ognuno di questi genero il where.
+				if(!empty($filter) && is_array($filter))
+				foreach($filter as $filter_name => $_range_values)
+				{
+					$range_values = explode('-',$_range_values);
+					$min = (int) trim($range_values[0]);
+					$max = (int) trim($range_values[1]);
+					
+					 $where_min_max = "(filter.name = '".$filter_name."' AND item_filter.value >= '".$min."' AND item_filter.value <= '".$max."')";
+					 $this->db->where($where_min_max);
+				}
+				
+				// salto al filtro successivo
+				continue;
+			}
+
+			// caso autocomplete
+			if('autocomplete' == $name)
+			{
+				if(!empty($filter) && is_array($filter))
+				foreach($filter as $filter_name => $filter_table_search)
+				{
+					// TODO che fare qui della ricerca geografica?
+				}
+			}
+			
 			if(!empty($filter))
 			if(is_array($filter))
 			{

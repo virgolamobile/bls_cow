@@ -23,17 +23,17 @@ class Filter_model extends CI_Model {
 		// ottengo filtri e opzioni
 		$raw_filters = $this->get_raw_filters($this->type);
 		$raw_options = $this->get_raw_options();
-		
+
 		// Normalizzo quanto ottenuto, ovvero ottengo una struttura dati coerente che possa essere utilizzata nel sistema.
 		// In questa fase unisco filtri e opzioni.
 		// ottengo tutti i filtri (di un type o tutti) con cache
 		if ( ! $filters = $this->cache->get('filters-'.$this->type.'-'.LANG))
 		{
 			$filters = $this->normalize_filters($raw_filters,$raw_options);
-			
+
 			$this->cache->save('filters-'.$this->type.'-'.LANG, $filters, '60');
 		}
-		
+
 		// setto i valori di default. Se ci sono filtri attivi uso quelli. Per farlo ciclo i filtri attivi e li popolo con i valori ottenuti in post, uri o get.
 		if(is_array($filters))
 		foreach($filters as $type => $_filters)
@@ -44,7 +44,7 @@ class Filter_model extends CI_Model {
 				if($value) $filters[$type][$name]['default'] = $value;
 			}
 		}
-		
+
 		return $filters;
 	}
 
@@ -96,10 +96,10 @@ class Filter_model extends CI_Model {
 			// salvo in cache. I filtri andranno salvati a long term. // TODO: in development i filtri sono settati short term.
 			$this->cache->save('raw_options-'.$filter.'-'.LANG, $raw_options, '60');
 		}
-		
+
 		return $raw_options;
 	}
-	
+
 	/**
 	 * Normalizzo le opzioni.
 	 * 
