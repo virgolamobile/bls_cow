@@ -47,6 +47,8 @@ class Item_model extends CI_Model {
 				continue;
 			}
 
+			if('autocomplete' == $name) continue;
+			/*
 			// caso autocomplete multiplo
 			if('autocomplete' == $name)
 			{
@@ -74,16 +76,15 @@ class Item_model extends CI_Model {
 							
 							$this->db->join($table,$table . '.' . $key . ' = item.' . $key,'left');
 							$this->db->join($key,$table . '.' . $key . ' = ' . $key . '.id','left');
-							$this->db->or_where_in($table . '.name',$needles);
+							$this->db->where_in($table,$needles);
 						}
-					
-						//$this->db->join($table,);
 					}
 				}
 
 				// salto al filtro successivo
 				continue;
 			}
+			*/
 			
 			if(!empty($filter))
 			if(is_array($filter))

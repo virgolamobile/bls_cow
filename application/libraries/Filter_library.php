@@ -25,6 +25,18 @@ class Filter_library {
 		
 		return $CI->filter_model->get_types();
 	}
+	
+	/**
+	 * Ottengo un singolo filtro
+	 * 
+	 * @return array
+	 */
+	public function get_filter($id = 0)
+	{
+		$CI =& get_instance();
+		
+		return $CI->filter_model->get_filter($id);
+	}
 
 	/**
 	 * Ottengo i filtri.

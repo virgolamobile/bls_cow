@@ -23,11 +23,28 @@ class Filter_model extends CI_Model {
 		{
 			$id = $row['id'];
 			$name = $row['name'];
-		
+
 			$types[$id] = $name;
 		}
 		
 		return $types;
+	}
+	
+	/**
+	 * Ottengo un singolo filtro
+	 *
+	 */
+	public function get_filter($id)
+	{
+		// ottengo il filtro
+		$this->db->where('id',$id);
+		$query = $this->db->get('filter');
+		$filter = $query->row_array();
+
+		// aggiungo le options
+		$filter['options'] = $this->get_raw_options($filter['id']);
+
+		return $filter;
 	}
 	
 	/**

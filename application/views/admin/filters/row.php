@@ -1,4 +1,5 @@
-<tr id="filter_<?php _h($id); ?>">
+<tr>
+	<td><a href="<?php echo base_url('admin/filter/filter_detail/'.$id); ?>">Edit</a></td>
 	<td> <?php _h($name); ?></td>
 	<td> <?php _h($min); ?></td>
 	<td> <?php _h($max); ?></td>

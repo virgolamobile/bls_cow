@@ -10541,3 +10541,47 @@ DEBUG - 2012-01-27 01:55:56 --> Helper loaded: text_helper
 DEBUG - 2012-01-27 01:55:56 --> Language file loaded: language/english/profiler_lang.php
 DEBUG - 2012-01-27 01:55:56 --> Final output sent to browser
 DEBUG - 2012-01-27 01:55:56 --> Total execution time: 5.5253
+DEBUG - 2012-01-27 02:11:56 --> Config Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> Hooks Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> Utf8 Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> UTF-8 Support Enabled
+DEBUG - 2012-01-27 02:11:57 --> URI Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> Router Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> Output Class Initialized
+DEBUG - 2012-01-27 02:11:57 --> Security Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Input Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-01-27 02:11:58 --> Language Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Loader Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Helper loaded: basics_helper
+DEBUG - 2012-01-27 02:11:58 --> Helper loaded: url_helper
+DEBUG - 2012-01-27 02:11:58 --> Helper loaded: string_helper
+DEBUG - 2012-01-27 02:11:58 --> Helper loaded: account_helper
+DEBUG - 2012-01-27 02:11:58 --> Database Driver Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Session Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Session routines successfully run
+DEBUG - 2012-01-27 02:11:58 --> Model Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Model Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Model Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Controller Class Initialized
+DEBUG - 2012-01-27 02:11:58 --> Model Class Initialized
+DEBUG - 2012-01-27 02:11:59 --> Helper loaded: file_helper
+DEBUG - 2012-01-27 02:12:00 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/row.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 02:12:01 --> File loaded: application/views/admin/filters/manage.php
+DEBUG - 2012-01-27 02:12:01 --> Accessing Developer Toolbar hook!
+DEBUG - 2012-01-27 02:12:01 --> Config file loaded: application/config/developer_toolbar.php
+DEBUG - 2012-01-27 02:12:01 --> Helper loaded: date_helper
+DEBUG - 2012-01-27 02:12:01 --> Helper loaded: html_helper
+DEBUG - 2012-01-27 02:12:01 --> Helper loaded: number_helper
+DEBUG - 2012-01-27 02:12:01 --> Helper loaded: text_helper
+DEBUG - 2012-01-27 02:12:01 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2012-01-27 02:12:01 --> Final output sent to browser
+DEBUG - 2012-01-27 02:12:01 --> Total execution time: 4.7848
