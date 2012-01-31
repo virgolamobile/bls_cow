@@ -1,36 +1,45 @@
-<form>
-	<h2><?php _h($name); ?>
+<form action="" method="post">
+	<h2>filter: <?php _h($name); ?></h2>
 	<table cellpadding="2" cellspacing="0" border="1">
 		<tr>
 			<th>min</th>
+			<td>
+				<input type="text" name="min" value="<?php _h($min); ?>" />
+			</td>
+		</tr>
+		<tr>
 			<th>min</th>
+			<td>
+				<input type="text" name="max" value="<?php _h($max); ?>" />
+			</td>
+		</tr>
+		<tr>
 			<th>default</th>
+			<td>
+				<input type="text" name="default" value="<?php _h($default); ?>" />
+			</td>
+		</tr>
+		<tr>
 			<th>format</th>
+			<td>
+				<input type="text" name="format" value="<?php _h($format); ?>" />
+			</td>
+		</tr>
+		<tr>
 			<th>cast</th>
+			<td>
+				<input type="text" name="cast" value="<?php _h($cast); ?>" />
+			</td>
+		</tr>
+		<tr>
 			<th>scope</th>
-		</tr>
-		<tr>
-			<td> <?php _h($min); ?></td>
-			<td> <?php _h($max); ?></td>
-			<td> <?php _h($default); ?></td>
-			<td> <?php _h($format); ?></td>
-			<td> <?php _h($cast); ?></td>
-			<td> <?php _h($scope); ?></td>
+			<td>
+				<input type="text" name="scope" value="<?php _h($scope); ?>" />
+			</td>
 		</tr>
 	</table>
 
-
-	<h2>Options</h2>
-	<table cellpadding="2" cellspacing="0" border="1">
-		<tr>
-			<th>Label</th>
-		</tr>
-		<?php foreach($options as $option) : ?>
-			<tr>
-				<td><?php _h($option['label']); ?></td>
-			</tr>
-		<?php endforeach; ?>
-	</table>
-	
 	<input type="submit" />
 </form>
+
+<a href="<?php echo base_url('admin/filter/options/' . $id); ?>">Show options</a>

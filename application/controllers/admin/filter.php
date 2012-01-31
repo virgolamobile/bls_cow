@@ -55,6 +55,37 @@ class Filter extends CI_Controller {
 		$this->load->view('admin/filters/details',$data);
 	}
 	
+	/**
+	 * Salva un filtro
+	 *
+	 *
+	 */
+	public function details_save($id)
+	{
+		var_dump($_POST);
+	}
 	
+	/**
+	 * Visualizza le opzioni di un filtro
+	 *
+	 *
+	 */
+	public function options($id)
+	{
+		$this->output->enable_profiler(TRUE); 
+		
+		$options = $this->filter_library->get_options($id);
+		$langs = $this->filter_library->get_available_langs();
+		
+		$this->load->view('admin/filters/options',array('langs'=>$langs,'id'=>$id,'options'=>$options));
+	}
+	
+	/**
+	 * Salvo le options di un determinato filter
+	 */
+	public function options_save($id)
+	{
+		$this->output->enable_profiler(TRUE);
+	}
 
 }

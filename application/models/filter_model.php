@@ -48,6 +48,64 @@ class Filter_model extends CI_Model {
 	}
 	
 	/**
+	 * Ottengo un pacchetto opzioni, organizzato per lingua.
+	 * Se manca la lingua chiedo tutte le lingue
+	 * 
+	 * @param filter id
+	 * @param lang
+	 * @return array organizzati per codice lingua
+	 *
+	 */
+	public function get_options($filter,$lang = '')
+	{
+		// ottengo le opzioni di un filtro
+		$this->db->where('filter',$filter);
+		if(is_string($lang) && $lang != '')
+		{
+			$where = " AND lang = '" . $lang . "'";	
+		}
+		elseif(is_array($lang) && !empty($lang))
+		{
+			$where = " AND lang IN '" . explode(',',$lang) . "'";
+		}
+		else
+		{
+			$where = '';
+		}
+
+		$this->db->join('filter_option_lang','filter_option.id = filter_option_lang.filter_option' . $where,'left');
+		$this->db->order_by('order','asc');
+		$query = $this->db->get('filter_option');
+		$_options = $query->result_array();
+		
+		unset($lang);
+		
+		// creo l'array
+		foreach($_options as $option)
+		{
+			$lang = $option['lang'];
+			$id = $option['id'];
+			$label = $option['label'];
+			$options[$id][$lang] = $label;
+		}
+		
+		// uso le lingue per determinare la normalizzazione
+		$available_langs = $this->filter_library->get_available_langs();
+		
+		// lo normalizzo inserendo campi vuoti per le lingue senza traduzioni
+		foreach($options as $id => $data)
+		{
+			foreach($available_langs as $lang)
+			{
+				if(!isset($options[$id][$lang])) $options[$id][$lang] = '';
+				ksort($options[$id]);
+			}
+		}
+
+		return $options;
+	}
+	
+	/**
 	 * Ottengo la struttura di tutti i filtri di un type, oppure per uno, organizzati per type
 	 * 
 	 * @param string type. 0 default ovvero tutti.

@@ -15,6 +15,15 @@ class Filter_library {
 	}
 	
 	/**
+	 * Restituisce l'elenco delle lingue disponibli
+	 * // TODO hard code due lingue, it e en
+	 */
+	public function get_available_langs()
+	{
+		return array('it','en');
+	}
+	
+	/**
 	 * Ottengo i types di filtri.
 	 * 
 	 * @return array
@@ -48,6 +57,19 @@ class Filter_library {
 		$CI =& get_instance();
 		
 		return $CI->filter_model->get_filters($type);
+	}
+	
+	/**
+	 * Ottengo le options, di tutte le lingue
+	 * 
+	 * @param int filter id 
+	 * @return array
+	 */
+	public function get_options($filter = 0)
+	{
+		$CI =& get_instance();
+		
+		return $CI->filter_model->get_options($filter);
 	}
 	
 	/**
