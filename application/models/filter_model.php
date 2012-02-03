@@ -32,6 +32,8 @@ class Filter_model extends CI_Model {
 	
 	/**
 	 * Ottengo un singolo filtro
+	 * 
+	 * @param int id filtro
 	 *
 	 */
 	public function get_filter($id)
@@ -45,6 +47,30 @@ class Filter_model extends CI_Model {
 		$filter['options'] = $this->get_raw_options($filter['id']);
 
 		return $filter;
+	}
+	
+	/**
+	 * Aggiorna il type
+	 * 
+	 * @param int type id
+	 * @param array update
+	 */
+	public function type_save_update($type,$_update)
+	{
+		// TODO update type
+		
+		_d($_update);
+	}
+	
+	/**
+	 * Inserisce il type
+	 * 
+	 * @param int type id
+	 * @param array update
+	 */
+	public function type_save_insert($type,$_insert)
+	{
+		// TODO insert type
 	}
 	
 	/**
@@ -104,6 +130,116 @@ class Filter_model extends CI_Model {
 
 		return $options;
 	}
+
+	/**
+	 * Cancella un'opzione
+	 * 
+	 * @param int option id
+	 */
+	public function option_delete($option_id)
+	{
+		// rimuovo dalla tabella
+		$this->db->delete('filter_option',array('id'=>$option_id));
+		
+		// rimuovo le lingue
+		$this->db->delete('filter_option_lang',array('filter_option'=>$option_id));
+	}
+	
+	/**
+	 * Salvataggio options update
+	 * 
+	 * @param int filter id
+	 * @param array update
+	 */
+	public function options_save_update($id,$_update)
+	{
+		// normalizzo l'array per svuotare righe vuote, ovvero dove label non sia indicato in nessuna lingua
+		$data = $this->options_normalize_post($_update);
+		
+		foreach($data as $key => $el)
+		{
+			foreach($el as $lang => $label)
+			{
+				$update = array(
+					'label'				=> $label
+				);
+				$where = array(
+					'filter_option'		=> $key,
+					'lang'				=> $lang
+
+				);
+				
+				$this->db->where($where);
+				$query = $this->db->get('filter_option_lang'); // verifico se esiste
+				$row = $query->row_array();
+				
+				// se esisteva update, altrimenti insert
+				if(!empty($row))
+				{
+					$this->db->set($update);
+					$this->db->where($where);
+					$this->db->update('filter_option_lang');	
+				}
+				else
+				{
+					$this->db->insert('filter_option_lang',array_merge($update,$where));	
+				}
+			}	
+		}
+
+	}
+	
+	/**
+	 * Salvataggio options insert
+	 * 
+	 * @param int filter id
+	 * @param array insert
+	 */
+	public function options_save_insert($id,$_insert)
+	{
+		// normalizzo l'array per svuotare righe vuote, ovvero dove label non sia indicato in nessuna lingua
+		$data = $this->options_normalize_post($_insert);
+		
+		foreach($data as $key => $el)
+		{
+			// inserisco il nuovo filter option e ottengo l'id
+			$this->db->insert('filter_option',array('filter'=>$id,'order'=>0));
+			$filter_option[$key] = $this->db->insert_id();
+			
+			foreach($el as $lang => $label)
+			{
+				$insert_batch[] = array(
+					'filter_option'		=> $filter_option[$key],
+					'lang'				=> $lang,
+					'label'				=> $label
+				);	
+			}	
+		}
+
+		if(isset($insert_batch) && !empty($insert_batch)) $this->db->insert_batch('filter_option_lang',$insert_batch);
+	}
+	
+	/**
+	 * Normalizzo l'array insert, update di options
+	 * 
+	 * @param array
+	 */
+	public function options_normalize_post($array)
+	{
+		$data = array();
+
+		// normalizzo l'array per svuotare righe vuote, ovvero dove label non sia indicato in nessuna lingua
+		foreach($array as $lang => $el)
+		{
+			foreach($el as $key => $label)
+			{
+				// se label non è vuoto non popolo. Se è vuoto in tutte le lingue non popolo affatto.
+				if(!empty($label)) $data[$key][$lang] = $label;
+			}
+		}
+
+		return $data;
+	}
 	
 	/**
 	 * Ottengo la struttura di tutti i filtri di un type, oppure per uno, organizzati per type
@@ -138,6 +274,43 @@ class Filter_model extends CI_Model {
 			{
 				$value = $this->get_active_filter($name);
 				if($value) $filters[$type][$name]['default'] = $value;
+			}
+		}
+
+		return $filters;
+	}
+
+	/**
+	 * Ottengo i pacchetti lingua per uno o più filtri
+	 * 
+	 * @param int filter id
+	 */
+	public function get_filter_lang($id)
+	{
+		$this->db->join('filter','filter.id = filter_lang.filter','right');
+		$query = $this->db->get('filter_lang');
+		$result = $query->result_array();
+
+		// normalizzo usando id e lingua
+		foreach($result as $key => $filter)
+		{
+			$lang = $filter['lang'];
+			$id = $filter['id'];
+			$label = $filter['label'];
+
+			$filters[$id][$lang] = $label;
+		}
+
+		// uso le lingue per determinare la normalizzazione
+		$available_langs = $this->filter_library->get_available_langs();
+		
+		// lo normalizzo inserendo campi vuoti per le lingue senza traduzioni
+		foreach($filters as $id => $data)
+		{
+			foreach($available_langs as $lang)
+			{
+				if(!isset($filters[$id][$lang])) $filters[$id][$lang] = '';
+				ksort($filters[$id]);
 			}
 		}
 

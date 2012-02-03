@@ -37,7 +37,8 @@ class Filter_library {
 	
 	/**
 	 * Ottengo un singolo filtro
-	 * 
+	 *
+	 * @param int id filtro 
 	 * @return array
 	 */
 	public function get_filter($id = 0)
@@ -50,6 +51,7 @@ class Filter_library {
 	/**
 	 * Ottengo i filtri.
 	 * 
+	 * @param int id type
 	 * @return array
 	 */
 	public function get_filters($type = 0)
@@ -57,6 +59,18 @@ class Filter_library {
 		$CI =& get_instance();
 		
 		return $CI->filter_model->get_filters($type);
+	}
+	
+	/**
+	 * Ottengo i pacchetti lingua per un filtro o per più filtri, divisi per label e lang
+	 * 
+	 * @param int filter id
+	 */
+	public function get_filter_lang($id)
+	{
+		$CI =& get_instance();
+		
+		return $CI->filter_model->get_filter_lang($id);		
 	}
 	
 	/**
@@ -72,6 +86,55 @@ class Filter_library {
 		return $CI->filter_model->get_options($filter);
 	}
 	
+	/**
+	 * Salva un type
+	 * 
+	 * @param int id type
+	 * @param post
+	 */
+	public function type_save($type)
+	{
+		$CI =& get_instance();
+		
+		// insert
+		$_insert = $CI->input->post('insert');
+		$CI->filter_model->type_save_insert($type,$_insert);
+		
+		// update
+		$_update = $CI->input->post('update');
+		$CI->filter_model->type_save_update($type,$_update);
+	}
+	
+	/**
+	 * Salva un pacchetto opzioni
+	 * 
+	 * @param int filtro
+	 * @param post opzioni insert e update
+	 */
+	public function options_save($id)
+	{
+		$CI =& get_instance();
+		
+		// insert
+		$_insert = $CI->input->post('insert');
+		$CI->filter_model->options_save_insert($id,$_insert);
+		
+		// update
+		$_update = $CI->input->post('update');
+		$CI->filter_model->options_save_update($id,$_update);
+	}
+	
+	/**
+	 * Cancella una singola opzione
+	 * 
+	 * @param int id opzione da rimuovere
+	 */
+	public function option_delete($option_id)
+	{
+		$CI =& get_instance();
+
+		$CI->filter_model->option_delete($option_id);
+	}
 	/**
 	 * Compila i filtri secondo i template.
 	 * 
