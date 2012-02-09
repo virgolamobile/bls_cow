@@ -54,11 +54,11 @@ class Filter_library {
 	 * @param int id type
 	 * @return array
 	 */
-	public function get_filters($type = 0)
+	public function get_filters($type = 0,$nocache = FALSE)
 	{
 		$CI =& get_instance();
 		
-		return $CI->filter_model->get_filters($type);
+		return $CI->filter_model->get_filters($type,(bool) $nocache);
 	}
 	
 	/**
@@ -70,7 +70,7 @@ class Filter_library {
 	{
 		$CI =& get_instance();
 		
-		return $CI->filter_model->get_filter_lang($id);		
+		return $CI->filter_model->get_filter_lang($id);
 	}
 	
 	/**

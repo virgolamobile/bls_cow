@@ -1,3 +1,5 @@
+<a href="<?php echo base_url('admin/filter'); ?>">&laquo; Back</a>
+
 <form action="<?php echo base_url('admin/filter/options_save/' . $id); ?>" method="post">
 	<h2>options</h2>
 	<table cellpadding="2" cellspacing="0" border="1">

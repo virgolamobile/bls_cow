@@ -57,11 +57,50 @@ class Filter_model extends CI_Model {
 	 */
 	public function type_save_update($type,$_update)
 	{
-		// TODO update type
-		
-		_d($_update);
+		// normalizzo l'array per svuotare righe vuote, ovvero dove label non sia indicato in nessuna lingua
+		$data = $this->options_normalize_post($_update);
+
+		foreach($data as $id => $row)
+		{
+			// per ognuno, il rispettivo lang lo gestisco prima e poi lo unsetto
+			foreach($row['lang'] as $lang => $label)
+			{
+				// seleziono. Esiste? Update. Non esiste? Insert. Pessimo approccio, ma per ora veloci così. Da sistemare.
+				$this->db->where('filter',$id);
+				$this->db->where('lang',$lang);
+				$query = $this->db->get('filter_lang');
+				$result = $query->row();
+				
+				// cosa popolo?
+				$lang_data = array(
+					'filter'	=> $id,
+					'lang'		=> $lang,
+					'label'		=> $label
+				);
+				
+				if(empty($result))
+				{
+					$this->db->insert('filter_lang',$lang_data);
+				}
+				else
+				{
+					$this->db->where('filter',$id);
+					$this->db->where('lang',$lang);
+					$this->db->update('filter_lang',array('label'=>$label));
+				}
+				
+			}
+
+			// elimino lang e passo avanti
+			unset($row['lang']);
+
+			// così tutto il resto può essere inserito in un colpo.
+			$this->db->where('id',$id);
+			$this->db->update('filter',$row);
+		}
+
 	}
-	
+
 	/**
 	 * Inserisce il type
 	 * 
@@ -70,7 +109,34 @@ class Filter_model extends CI_Model {
 	 */
 	public function type_save_insert($type,$_insert)
 	{
-		// TODO insert type
+		// normalizzo l'array per svuotare righe vuote, ovvero dove label non sia indicato in nessuna lingua
+		$data = $this->options_normalize_post($_insert);
+
+		foreach($data as $row)
+		{
+			// TODO validazione: intanto se name è vuoto esco.
+			if(empty($row['name'])) continue;
+			
+			// taglio lang e lo gestisco dopo
+			$_langs = $row['lang'];
+			unset($row['lang']);
+			
+			// setto il type
+			$row['type'] = $type;
+			
+			$this->db->insert('filter',$row);
+			$id = $this->db->insert_id();
+			
+			// carico le lingue
+			foreach($_langs as $lang => $label)
+			{
+				// inserisco solo quelli non vuoti
+				if(!empty($label))
+				{
+					$this->db->insert('filter_lang',array('filter' => $id, 'lang' => $lang, 'label' => $label));
+				}
+			}
+		}
 	}
 	
 	/**
@@ -107,6 +173,7 @@ class Filter_model extends CI_Model {
 		unset($lang);
 		
 		// creo l'array
+		$options = array();
 		foreach($_options as $option)
 		{
 			$lang = $option['lang'];
@@ -245,21 +312,22 @@ class Filter_model extends CI_Model {
 	 * Ottengo la struttura di tutti i filtri di un type, oppure per uno, organizzati per type
 	 * 
 	 * @param string type. 0 default ovvero tutti.
+	 * @param bool nocache. Se attivo salto cache.
 	 * @return array filters by type
 	 */
-	public function get_filters($type = 0)
+	public function get_filters($type = 0, $nocache = FALSE)
 	{
 		// setto il type
 		$this->set_type($type);
 
-		// ottengo filtri e opzioni
-		$raw_filters = $this->get_raw_filters($this->type);
-		$raw_options = $this->get_raw_options();
+		// ottengo filtri e opzioni (nocache)
+		$raw_filters = $this->get_raw_filters($this->type,$nocache);
+		$raw_options = $this->get_raw_options(0,$nocache);
 
 		// Normalizzo quanto ottenuto, ovvero ottengo una struttura dati coerente che possa essere utilizzata nel sistema.
 		// In questa fase unisco filtri e opzioni.
 		// ottengo tutti i filtri (di un type o tutti) con cache
-		if ( ! $filters = $this->cache->get('filters-'.$this->type.'-'.LANG))
+		if ($nocache || !$filters = $this->cache->get('filters-'.$this->type.'-'.LANG))
 		{
 			$filters = $this->normalize_filters($raw_filters,$raw_options);
 
@@ -287,6 +355,7 @@ class Filter_model extends CI_Model {
 	 */
 	public function get_filter_lang($id)
 	{
+		$this->db->select('filter.*,filter_lang.label as label, filter_lang.lang as lang');
 		$this->db->join('filter','filter.id = filter_lang.filter','right');
 		$query = $this->db->get('filter_lang');
 		$result = $query->result_array();
@@ -324,10 +393,10 @@ class Filter_model extends CI_Model {
 	 * @param int type
 	 * @return array filters
 	 */
-	private function get_raw_filters($type)
+	private function get_raw_filters($type, $nocache = FALSE)
 	{
 		// ottengo tutti i filtri (di un type o tutti) con cache
-		if ( ! $raw_filters = $this->cache->get('raw_filters-'.$this->type.'-'.LANG))
+		if ($nocache || !$raw_filters = $this->cache->get('raw_filters-'.$this->type.'-'.LANG))
 		{
 			$this->db->select('filter.*,filter_type.name as filter_type');
 		
@@ -351,12 +420,12 @@ class Filter_model extends CI_Model {
 	 * @return array options
 	 * 
 	 */
-	private function get_raw_options($filter = 0)
+	private function get_raw_options($filter = 0, $nocache = FALSE)
 	{
 		$filter = (int) $filter;
 
 		// ottengo tutti i filtri (di un type o tutti) con cache
-		if ( ! $raw_options = $this->cache->get('raw_options-'.$filter.'-'.LANG))
+		if ($nocache ||  !$raw_options = $this->cache->get('raw_options-'.$filter.'-'.LANG))
 		{
 			if(0 < $filter) $this->db->where('filter',$filter);	// solo se il filter è settato come > 0
 			$this->db->join('filter_option_lang','filter_option_lang.filter_option = filter_option.id');
@@ -407,6 +476,9 @@ class Filter_model extends CI_Model {
 	private function normalize_filters($raw_filters = array(),$raw_options = array())
 	{
 		$options = $this->normalize_options($raw_options);
+		
+		// init
+		$filters = array();
 		
 		// organizzo in una struttura dati divisa per type
 		foreach($raw_filters as $raw_filter)

@@ -1,3 +1,4 @@
+<a href="<?php echo base_url('admin/filter'); ?>">&laquo; Back</a>
 <h2>Filters</h2>
 <form method="post" action="<?php echo base_url('admin/filter/type_save/' . $type); ?>">
 	<table cellpadding="2" cellspacing="0" border="1">
@@ -42,23 +43,23 @@
 		<?php endforeach; ?>
 		<tr>
 			<td>
-				<input type="text" name="insert[name][]" value="" />
+				<input type="text" name="insert[name][0]" value="" />
 			</td>
 			<td>
-				<input type="text" name="insert[format][]" value="" />
+				<input type="text" name="insert[format][0]" value="" />
 			</td>
 			<td>
-				<input type="text" name="insert[cast][]" value="" />
+				<input type="text" name="insert[cast][0]" value="" />
 			</td>
 			<td>
-				<input type="text" name="insert[scope][]" value="" />
+				<input type="text" name="insert[scope][0]" value="" />
 			</td>
 			<td>
-				<input type="text" name="insert[label][]" value="" />
+				<input type="text" name="insert[label][0]" value="" />
 			</td>
 			<?php foreach($langs as $lang_id) : ?>
 				<td>
-					<input type="text" name="insert[lang][<?php echo $lang_id; ?>][]" value="<?php echo $filter_lang[ $filter['id'] ][$lang_id]; ?>" />
+					<input type="text" name="insert[lang][0][<?php echo $lang_id; ?>]" value="" />
 				</td>
 			<?php endforeach; ?>
 			<td>
@@ -66,6 +67,6 @@
 			</td>
 		</tr>
 	</table>
-	
+
 	<input type="submit" value="save" />
 </form>

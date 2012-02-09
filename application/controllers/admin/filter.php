@@ -24,7 +24,7 @@ class Filter extends CI_Controller {
 
 		$this->load->view('admin/filters/main',array('types' => $types));
 	}
-	
+
 	/**
 	 * Visualizzo un type
 	 */
@@ -32,10 +32,13 @@ class Filter extends CI_Controller {
 	{
 		$this->output->enable_profiler(TRUE);
 
-		// ottengo filtri e types
-		$filters = $this->filter_library->get_filters($type);
+		// ottengo filtri e types (no cache)
+		$filters = $this->filter_library->get_filters($type,TRUE);
 		$filter_lang = $this->filter_library->get_filter_lang($type);
 		$langs = $this->filter_library->get_available_langs();
+		
+		// init se il type non ha filtri
+		if(!isset($filters[$type])) $filters[$type] = array();
 
 		$this->load->view('admin/filters/type',array('type' => $type, 'langs' => $langs, 'filters' => $filters[$type], 'filter_lang' => $filter_lang));
 	}
@@ -48,10 +51,10 @@ class Filter extends CI_Controller {
 	public function type_save($type)
 	{
 		$this->output->enable_profiler(TRUE);
-		
+
 		$this->filter_library->type_save($type);
-		
-		// redirect(base_url('admin/filter/type/' . $type));
+
+		redirect(base_url('admin/filter/type/' . $type));
 	}
 
 	/**
